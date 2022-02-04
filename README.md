@@ -95,6 +95,43 @@ Aimed at those who set up tools and services for others.
 
 
 
+## Hardware
+
+### Right-to-repair
+
+### 3d Rrinting
+
+### Makerspaces
+
+### DIY Home Security
+
+### Re-purposing Old Technology
+
+### Off-grid Power
+
+Article [The Sustainability Commons: Using Open Source Design to Address Climate Change](https://www.shareable.net/the-sustainability-commons-using-open-source-design-to-address-climate-change/)
+
+Wayback Link [POC21](https://web.archive.org/web/20210910112404/http://www.poc21.cc/)
+
+[Pop-up Solar Generator: SunZilla 3.0](https://www.instructables.com/Pop-up-Solar-Generator-SunZilla-30/)
+
+[$30 Vertical Axis Wind Turbine From Scrap Materials
+](https://www.instructables.com/Vertial-Axis-Wind-Turbine-from-30-Of-Scrap-Materia/)
+
+## Connectivity
+
+### Community/Mesh Networks
+
+Article [Meta Mesh receives $120k grant to bring free WiFi to Pittsburgh
+](https://nextpittsburgh.com/latest-news/meta-mesh-receives-120k-grant-to-bring-free-wifi-to-pittsburgh/)
+
+[Detroit Community Technology Project](https://detroitcommunitytech.org)
+
+### Amateur Radio
+
+## Policy
+
+- [Center for Democracy and Technology](https://cdt.org) - "CDT works to promote democratic values by shaping technology policy and architecture, with a focus on the rights of the individual."
 
 --------------------
 
@@ -105,11 +142,14 @@ Aimed at those who set up tools and services for others.
 
 ## External Links
 
+- [Engineering For Change](https://www.engineeringforchange.org)
+
+- [opensource.com](https://opensource.com)
 
 - [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets) - List of high quality, topic-centric public data sources.
 - Dynamic Domain Name services: [Afraid.org](https://freedns.afraid.org/domain/registry/), [Pagekite](https://pagekite.net/)
 - Communities/forums: [/r/selfhosted](https://www.reddit.com/r/selfhosted), [IndieWeb](https://indieweb.org/)
-- Mirrors: [GitHub.com](https://github.com/awesome-selfhosted/awesome-selfhosted), [Gitlab.com](https://gitlab.com/awesome-selfhosted/awesome-selfhosted)
+- Mirrors: [GitHub.com](https://github.com/LibreTechnica/libretechnica.github.io), [Gitlab.com](https://gitlab.com/)
 - [Track Awesome Selfhosted](https://www.trackawesomelist.com/awesome-selfhosted/awesome-selfhosted/) - Get the latest updates of awesome-selfhosted.
 
 --------------------

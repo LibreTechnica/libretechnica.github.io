@@ -52,16 +52,13 @@ Aimed at the average user.
 
 ### Operating Systems
 
-**[`^        back to top        ^`](#)**
 
 ### Open-source Software
 
-**[`^        back to top        ^`](#)**
 
 
 ### Security and Privicy Tools
 
-**[`^        back to top        ^`](#)**
 
 Lists of software aimed at privacy, security, and decentralization in some form: 
 
@@ -79,7 +76,6 @@ Aimed at those who set up tools and services for others.
 
 ### Self-hosting
 
-**[`^        back to top        ^`](#)**
 
 > "Self-hosting is the practice of locally hosting and managing applications instead of renting from [SaaSS](https://www.gnu.org/philosophy/who-does-that-server-really-serve.html) providers." Source: Awesome-Selfhosted
 
@@ -88,7 +84,6 @@ Aimed at those who set up tools and services for others.
 
 ### Open-source Services
 
-**[`^        back to top        ^`](#)**
 
 - [Awesome Sysadmin](https://github.com/awesome-foss/awesome-sysadmin) - Curated list of amazingly awesome open source sysadmin resources.
 - [Libre Projects](https://libreprojects.net/) - Open source hosted web services.
@@ -110,7 +105,6 @@ Aimed at those who set up tools and services for others.
 
 ## External Links
 
-**[`^        back to top        ^`](#)**
 
 - [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets) - List of high quality, topic-centric public data sources.
 - Dynamic Domain Name services: [Afraid.org](https://freedns.afraid.org/domain/registry/), [Pagekite](https://pagekite.net/)
@@ -131,3 +125,5 @@ The list of authors can be found in [AUTHORS.md](AUTHORS.md).
 ## License and Attribution
 
 This layout, presentation, and structure of this project is derived from the repository [Awesome-Selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) and thus this LibreTechnica content is also licensed under the [Creative Commons Attribution-ShareAlike 3.0 Unported](LICENSE) license.
+
+**[`^        back to top        ^`](#)**

@@ -66,7 +66,7 @@ Lists of software aimed at privacy, security, and decentralization in some form:
 	* [r/PrivacyGuides/ on Reddit](https://www.reddit.com/r/PrivacyGuides/)
 * [PRISM Break](https://prism-break.org/en/) - Tools to help you "Opt out of global data surveillance programs like PRISM, XKeyscore and Tempora."
 * [Restore Privacy](https://restoreprivacy.com/privacy-tools/) - Blog and lists of resources related to privacy and security.
-
+- [Switching.Software](https://switching.software) - List of privacy-conscious alternatives to well-known software.
 
 --------------------
 
@@ -80,7 +80,10 @@ Aimed at those who set up tools and services for others.
 > "Self-hosting is the practice of locally hosting and managing applications instead of renting from [SaaSS](https://www.gnu.org/philosophy/who-does-that-server-really-serve.html) providers." Source: Awesome-Selfhosted
 
 - [Awesome-Selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - There is probably no list as comprehensive as this one for self-hosted software. With dozens of categories, you're surely to find an option that suits your needs if you're trying to replace commercial services.
-- [r/selfhosted/](https://www.reddit.com/r/selfhosted/) on Reddit.
+- [r/selfhosted/](https://www.reddit.com/r/selfhosted/) on Reddit.  Here is their [official wiki](https://wiki.r-selfhosted.com)
+
+- [Yuno Host](https://yunohost.org/en) - A "libre operating system aiming to simplify server administration and democratize self-hosting."
+
 
 ### Open-source Services
 
@@ -88,11 +91,23 @@ Aimed at those who set up tools and services for others.
 - [Awesome Sysadmin](https://github.com/awesome-foss/awesome-sysadmin) - Curated list of amazingly awesome open source sysadmin resources.
 - [Libre Projects](https://libreprojects.net/) - Open source hosted web services.
 
+- [OpenStreetMap](https://www.openstreetmap.org/) and [NextCloud Maps](https://apps.nextcloud.com/apps/maps)
 
 ### Decentralized/Federated Service
 
+- Article [What Is the Fediverse and Can It Decentralize the Web?](https://www.makeuseof.com/what-is-the-fediverse-and-can-it-decentralize-the-web/)
+
+- [/r/decentralization](https://www.reddit.com/r/decentralization/)
+
 * [Alternative Internet](https://redecentralize.github.io/alternative-internet/) - "A collection of interesting networks and technology aiming at re-decentralizing the Internet."
 
+- [Fediverse Party](https://fediverse.party) - A small list of federates services
+
+- [Friendica](https://friendi.ca) - A decentralized social network.
+
+- [Diaspora](https://joindiaspora.com) - Another decentralized social network.
+
+- [Storj](https://www.storj.io) - a decentralized cloud storage platform
 
 
 ## Hardware
@@ -109,23 +124,23 @@ Aimed at those who set up tools and services for others.
 
 ### Off-grid Power
 
-Article [The Sustainability Commons: Using Open Source Design to Address Climate Change](https://www.shareable.net/the-sustainability-commons-using-open-source-design-to-address-climate-change/)
+- Article [The Sustainability Commons: Using Open Source Design to Address Climate Change](https://www.shareable.net/the-sustainability-commons-using-open-source-design-to-address-climate-change/)
 
-Wayback Link [POC21](https://web.archive.org/web/20210910112404/http://www.poc21.cc/)
+- Wayback Link [POC21](https://web.archive.org/web/20210910112404/http://www.poc21.cc/)
 
-[Pop-up Solar Generator: SunZilla 3.0](https://www.instructables.com/Pop-up-Solar-Generator-SunZilla-30/)
+- [Pop-up Solar Generator: SunZilla 3.0](https://www.instructables.com/Pop-up-Solar-Generator-SunZilla-30/)
 
-[$30 Vertical Axis Wind Turbine From Scrap Materials
+- [$30 Vertical Axis Wind Turbine From Scrap Materials
 ](https://www.instructables.com/Vertial-Axis-Wind-Turbine-from-30-Of-Scrap-Materia/)
 
 ## Connectivity
 
 ### Community/Mesh Networks
 
-Article [Meta Mesh receives $120k grant to bring free WiFi to Pittsburgh
+- Article [Meta Mesh receives $120k grant to bring free WiFi to Pittsburgh
 ](https://nextpittsburgh.com/latest-news/meta-mesh-receives-120k-grant-to-bring-free-wifi-to-pittsburgh/)
 
-[Detroit Community Technology Project](https://detroitcommunitytech.org)
+- [Detroit Community Technology Project](https://detroitcommunitytech.org)
 
 ### Amateur Radio
 
@@ -149,7 +164,7 @@ Article [Meta Mesh receives $120k grant to bring free WiFi to Pittsburgh
 - [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets) - List of high quality, topic-centric public data sources.
 - Dynamic Domain Name services: [Afraid.org](https://freedns.afraid.org/domain/registry/), [Pagekite](https://pagekite.net/)
 - Communities/forums: [/r/selfhosted](https://www.reddit.com/r/selfhosted), [IndieWeb](https://indieweb.org/)
-- Mirrors: [GitHub.com](https://github.com/LibreTechnica/libretechnica.github.io), [Gitlab.com](https://gitlab.com/)
+- Mirrors: [GitHub.com](https://github.com/LibreTechnica/libretechnica.github.io), [Gitlab.com](https://gitlab.com/LibreTechnica/libretechnica-github-io)
 - [Track Awesome Selfhosted](https://www.trackawesomelist.com/awesome-selfhosted/awesome-selfhosted/) - Get the latest updates of awesome-selfhosted.
 
 --------------------

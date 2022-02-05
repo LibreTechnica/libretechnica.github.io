@@ -33,10 +33,27 @@ See [Contributing](.github/CONTRIBUTING.md).
   - [Operating Systems](#operating-systems)
   - [Open-source Software](#open-source-software)
   - [Security and Privicy Tools](#security-and-privicy-tools)
+  
 - [Services and Infrastructure](#services-and-infrastructure)
   - [Self-hosting](#self-hosting)
   - [Open-source Services](#open-source-services)
   - [Decentralized/Federated Service](#decentralized-federated-service)
+
+- [Hardware](#hardware)
+  - [Right-to-repair](#right-to-repair)
+  - [3d Printing](#3d-printing)
+  - [Makerspaces](#makerspaces)
+  - [DIY Home Security](#diy-home-security)
+  - [Re-purposing Old Technology](#re-purposing-old-technology)
+  - [Off-grid Power](#off-grid-power)
+
+- [Connectivity](#connectivity)
+  - [Community/Mesh Networks](#community-mesh-networks)
+  - [Amateur Radio](#amateur-radio)
+
+- [Policy](#policy)
+
+
 - [External Links](#external-links)
 - [Contributing](#contributing)
 - [Authors](#authors)
@@ -110,13 +127,19 @@ Aimed at those who set up tools and services for others.
 - [Storj](https://www.storj.io) - a decentralized cloud storage platform
 
 
+--------------------
+
 ## Hardware
 
 ### Right-to-repair
 
-### 3d Rrinting
+### 3d Printing
+
+- [Thingiverse](https://www.thingiverse.com) - A massive host of 3d printing files for nearly every kind of object imaginable.
 
 ### Makerspaces
+
+
 
 ### DIY Home Security
 
@@ -133,6 +156,9 @@ Aimed at those who set up tools and services for others.
 - [$30 Vertical Axis Wind Turbine From Scrap Materials
 ](https://www.instructables.com/Vertial-Axis-Wind-Turbine-from-30-Of-Scrap-Materia/)
 
+
+--------------------
+
 ## Connectivity
 
 ### Community/Mesh Networks
@@ -143,6 +169,8 @@ Aimed at those who set up tools and services for others.
 - [Detroit Community Technology Project](https://detroitcommunitytech.org)
 
 ### Amateur Radio
+
+--------------------
 
 ## Policy
 

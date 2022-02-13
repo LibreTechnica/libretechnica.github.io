@@ -14,6 +14,8 @@ Article [Digital Freedom: Are Your Rights At Risk?](https://eachother.org.uk/dig
 1.1.1.6	Brave browser
 1.1.1.7	Just pay for services?
 
+https://en.wikipedia.org/wiki/Non-profit_technology
+
 1.1.2	Governmental – Law Enforcement, surveillance, 
 
 1.1.3	Political – Net Neutrality, data-protection policies, privacy laws, trusts
@@ -26,3 +28,10 @@ Article [Digital Freedom: Are Your Rights At Risk?](https://eachother.org.uk/dig
 
 1.1.5	Environmental
 1.1.5.1	hacked Korean printers 
+
+
+Media
+
+https://en.wikipedia.org/wiki/Killswitch_(film)
+
+https://en.wikipedia.org/wiki/The_Internet's_Own_Boy

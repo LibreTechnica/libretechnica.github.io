@@ -25,3 +25,41 @@ This mission supports our vision where the people have full knowledge and contro
 ## License and Attribution
 
 This layout, presentation, and structure of this project is derived from the repository [Awesome-Selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) and thus this LibreTechnica content is also licensed under the [Creative Commons Attribution-ShareAlike 3.0 Unported](LICENSE) license.
+
+
+
+--------------------
+
+## Table of contents (stashing ToC here until I fix it)
+
+
+- [Applications](#applications)
+  - [Operating Systems](#operating-systems)
+  - [Open-source Software](#open-source-software)
+  - [Security and Privicy Tools](#security-and-privicy-tools)
+  
+- [Services and Infrastructure](#services-and-infrastructure)
+  - [Self-hosting](#self-hosting)
+  - [Open-source Services](#open-source-services)
+  - [Decentralized/Federated Service](#decentralized-federated-service)
+
+- [Hardware](#hardware)
+  - [Right-to-repair](#right-to-repair)
+  - [3d Printing](#3d-printing)
+  - [Makerspaces](#makerspaces)
+  - [DIY Home Security](#diy-home-security)
+  - [Re-purposing Old Technology](#re-purposing-old-technology)
+  - [Off-grid Power](#off-grid-power)
+
+- [Connectivity](#connectivity)
+  - [Community/Mesh Networks](#community-mesh-networks)
+  - [Amateur Radio](#amateur-radio)
+
+- [Policy](#policy)
+
+
+- [External Links](#external-links)
+- [Contributing](#contributing)
+- [Authors](#authors)
+- [License](#license)
+

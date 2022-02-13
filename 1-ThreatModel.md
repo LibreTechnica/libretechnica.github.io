@@ -1,3 +1,8 @@
+
+
+Article [Digital Freedom: Are Your Rights At Risk?](https://eachother.org.uk/digital-freedom-are-your-rights-at-risk/)
+
+
 1.1	Threat categories
 
 1.1.1	Commercial – Ad-trackers, printers not scanning after ink runs out

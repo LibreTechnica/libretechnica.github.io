@@ -3,6 +3,8 @@
 Article [Digital Freedom: Are Your Rights At Risk?](https://eachother.org.uk/digital-freedom-are-your-rights-at-risk/)
 
 
+[Citizen Lav](https://citizenlab.ca) - Citizen Lab is an academic research lab focused on the study of digital threats to civil society and high-level policy engagement. 
+
 1.1	Threat categories
 
 1.1.1	Commercial – Ad-trackers, printers not scanning after ink runs out
@@ -17,6 +19,9 @@ Article [Digital Freedom: Are Your Rights At Risk?](https://eachother.org.uk/dig
 https://en.wikipedia.org/wiki/Non-profit_technology
 
 1.1.2	Governmental – Law Enforcement, surveillance, 
+
+(Article)[Here's a list of the actual reasons why mass surveillance of NSA, GCHQ etc are problematic](https://www.cryptoparty.in/masssurveillance)
+
 
 1.1.3	Political – Net Neutrality, data-protection policies, privacy laws, trusts
 

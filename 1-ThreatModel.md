@@ -104,6 +104,11 @@ Planned obsolescence creates tons of e-waste
 
 ### Further Reading
 
+(Aticle) [Our internet usage and the environmental impact we don't think about](https://www.pathzero.com/blog/the-internet-covid-19-and-the-environmental-impact-we-dont-think-about)
+
+(Article) [Is Your Internet Use Destroying the Environment?
+](https://www.onegreenplanet.org/animalsandnature/is-your-internet-use-destroying-the-environment/)
+
 --------------------
 
 Media

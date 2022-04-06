@@ -19,7 +19,7 @@
 
 - [Citizen Lab](https://citizenlab.ca/) - "The Citizen Lab is an interdisciplinary lab focusing on research, development, and high-level strategic policy and legal engagement at the intersection of information and communication technologies, human rights, and global security."
 
-- [Privacy International](ttps://privacyinternational.org/) - a group to "protecting democracy, defending people's dignity, and demanding accountability from institutions who breach public trust."
+- [Privacy International](https://privacyinternational.org/) - a group to "protecting democracy, defending people's dignity, and demanding accountability from institutions who breach public trust."
 
 - [Digital Defenders Partnership](https://www.digitaldefenders.org) - "The Digital Defenders Partnership offers support to human rights defenders under digital threat, and works to strengthen local rapid response networks."  
 
@@ -35,7 +35,7 @@
 
 - [Restore Privacy](https://restoreprivacy.com/privacy-tools/) - Blog and lists of resources related to privacy and security.
 
-- [The Hitchhiker’s Guide to Online Anonymity ](https://anonymousplanet.org) - "a maintained guide with the aim of providing an introduction to various online tracking techniques, online ID verification techniques, and detailed guidance to creating and maintaining (truly) anonymous online identities."
+- [The Hitchhiker’s Guide to Online Anonymity ](https://anonymousplanet.org) - "a maintained guide with the aim of providing an introduction to various online tracking techniques, online ID verification techniques, and detailed guidance to creating and maintaining (truly) anonymous online identities." NOTE: This site appears to be currently down due to the main author's situation in Kyiv.  You can see an archived version of the site at: https://web.archive.org/web/20220227172107/https://anonymousplanet.org/ 
 
 - [Security in a Box](https://securityinabox.org/en/) - Digital security tools and tactics
 

@@ -2,6 +2,9 @@
 
 Aimed at the average user.
 
+## The Open-Source Challenge
+
+
 ## Operating Systems
 
 https://en.wikipedia.org/wiki/Linux_adoption#Reasons_for_adoption
@@ -9,9 +12,4 @@ https://en.wikipedia.org/wiki/Linux_adoption#Reasons_for_adoption
 
 ## Open-source Software
 
-
-
-## Security and Privacy Tools
-
-See [Cryptoparty.md](https://github.com/LibreTechnica/libretechnica.github.io/blob/main/3-Cryptoparty.md)
 

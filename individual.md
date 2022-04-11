@@ -1,42 +1,78 @@
-# If the service is free, then you are the product.
-
-Many of us have taken advantage of the multitude of free services provided by tech companies.  And who could blame us?  THey provide numerous conveniences and benefits to our lives.  We can use the most powerful data-finding algorithms to search for even the most obsure information; we can connect and reach out to nearly everyone we know on social network platforms; we can simply ask a sophisticated AI to get anything we want delivered to our front doors the day after we order it.
-
-While it's hard to imagine what life would be like without these services, it's even hard to imagine their true costs to us.  
-
-"But hold on a sec, aren't those all free?"
-
-Just because you don't pay money to use Google, Facebook, or Alexa, it doesn't mean you give nothing back to them.  To use those services, you must agree to let them collect, store, and leverage that data to make money.  Essentially, the cost to use those services is your personal data.
-
-It's important to see companies like Google and Facebook for their business models.  We think of Google being in the business of internet technology, but they're truly an advertising company at their core.  Same with Facebook, 98% of their $86bn revenue in 2020 came from advertising.  https://www.sec.gov/ix?doc=/Archives/edgar/data/1326801/000132680121000014/fb-20201231.htm  Facebook's customers are not the people posting status updates on their profiles; their customers are advertisers- and YOU are what they are buying access to!  Is getting angry at your uncle's Facebook rant worth the company having thousands of data-points on you?  
-
-There
+# The big questions
 
 
+How can I protect my personal data from being collected and used to generate profits for corporations?
+
+How can I protect my privacy from government surveillance?
+
+How can I reduce the environmental impact of the technology that I use?
 
 
+# What you can do
 
+Text leading up to the FOSS Challenge, Privacy Challenge, and the Sustainability Challenge. 
+
+
+## Take the FOSS Challenge!
 
 
 
 
-Take the FOSS Challenge!
+### 1. Change to FOSS alternatives to common software
+- Adobe Photoshop -> GIMP
+- Microsoft Office -> LibreOffice
+- Google Chrome -> Mozilla Firefox
+
+
+*Security bonus* - use Privacy tools like Signal.
+
+### 2. Use FOSS operating systems like Linux for your desktop computer.
+
+- Linux
+- FreeBSD
+
+
+### 3. Self-host your own services
+- Cloud-storage with NextCloud
+
+*Sustainability Bonus* - use and old laptop or PC as your home server.
+
+### 4. De-Google your life!  
+
+Use services that do not monetize your private data.  A great resource for this is [PrivacyGuides.org](https://www.privacyguides.org/tools/).  Their recommendations are a great way to ween yourself out of the world of online trackers.  Here are some good alternatives to start with.
+
+- Search Enging - DuckDuckGo
+- Email - ProtonMail
+
+### 5. Use open-source hardware?
 
 
 
-
-Change to FOSS alternatives to common software
-    Adobe Photoshop -> GIMP
-    Microsoft Office -> LibreOffice
-
-Use FOSS operating systems like Linux for your desktop computer.
-    Linux
-    FreeBSD
-
-Self-host your own services
-    Cloud-storage with NextCloud
-
-De-Google your life!
-    Change email providers to one that can't read your emails, like ProtonMail.
+## Take the Privacy Challenge
 
 
+### 10.  Go live in a cabin in the woods
+
+
+## Take the Sustainability Challenge
+
+Text text text 
+
+### Recognize the elephant in the cryptocurrency room
+
+Bitcoin CO2 emissions.  
+
+### Reuse old hardware
+
+We can prevent tons of electronic waste from going into landfills by repurposing or down-cycling our old tech.  Older computers that are sluggish with Windows tend to perform like new with Linux installed on them.  
+
+### Learn to repair broken electronics
+
+
+Errata 
+
+### Just pay for services?
+
+It's might make it a little harder for Google deliver hyper-targeted ads to you if you don't get ads in the fist place!  This option may be controversial, as you're still allowing the service provider to harvest your data.  But at least you're saving huge amounts of time by not being forced to look at ads.
+
+Don't want them to even have the pleasure ot taking your money?  Then open your Pi-Hole!

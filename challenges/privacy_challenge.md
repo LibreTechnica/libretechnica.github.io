@@ -1,9 +1,35 @@
-# Let’s have a CryptoParty!
+# The Privacy Challenge
 
 
 
 
---------------------
+
+
+### De-Google your life!  
+
+Use services that do not monetize your private data.  A great resource for this is [PrivacyGuides.org](https://www.privacyguides.org/tools/).  Their recommendations are a great way to ween yourself out of the world of online trackers.  Here are some good alternatives to start with.
+
+- Search Enging - DuckDuckGo
+- Email - ProtonMail
+
+### Use secure messaging apps
+
+### Use a Virtual Private Network (VPN)
+
+
+### Install a DIY home security system
+
+Shinobi
+
+### Delete Facebook
+
+### 10.  Go live in a cabin in the woods
+
+
+
+
+
+# Resources
 
 ## Education
 
@@ -59,3 +85,4 @@
 - [Tor Web Browswer](https://www.torproject.org) - Perhaps the most well-known and used browser that anonymizes users on the web.
 
 
+--------------------

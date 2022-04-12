@@ -9,6 +9,7 @@ LibreTechnica shares knowledge about technologies developed for the benefit of t
 - **Hardware:** right-to-repair, 3d printing, makerspaces, DIY home security, re-purposing old technology
 - **Connectivity:** mesh networks, amateur radio
 - **Policy:** While LibreTechnica advocates for policies that favorable to the public at large, the above solutions are intended to work whether or not such policies are adopted.
+
 ## Our Mission
 LibreTechnica's mission is to encourage others to learn and adopt technologies for the benefit of the commons. Some example of our activities are: :
 
@@ -34,20 +35,17 @@ The list of authors can be found in [AUTHORS.md](AUTHORS.md).
 
 ## External Links
 
-- [Engineering For Change](https://www.engineeringforchange.org)
-
-- [opensource.com](https://opensource.com)
-
 - [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets) - List of high quality, topic-centric public data sources.
+
 - Dynamic Domain Name services: [Afraid.org](https://freedns.afraid.org/domain/registry/), [Pagekite](https://pagekite.net/)
-- Communities/forums: [/r/selfhosted](https://www.reddit.com/r/selfhosted), [IndieWeb](https://indieweb.org/)
+
 - Mirrors: [GitHub.com](https://github.com/LibreTechnica/libretechnica.github.io), [Gitlab.com](https://gitlab.com/LibreTechnica/libretechnica-github-io)
-- [Track Awesome Selfhosted](https://www.trackawesomelist.com/awesome-selfhosted/awesome-selfhosted/) - Get the latest updates of awesome-selfhosted.
+
 
 --------------------
 
 ## License and Attribution
 
-This layout, presentation, and structure of this project is derived from the repository [Awesome-Selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) and thus this LibreTechnica content is also licensed under the [Creative Commons Attribution-ShareAlike 3.0 Unported](LICENSE) license.
+LibreTechnica content is licensed under the [Creative Commons Attribution-ShareAlike 3.0 Unported](LICENSE) license.
 
 **[`^        back to top        ^`](#)**

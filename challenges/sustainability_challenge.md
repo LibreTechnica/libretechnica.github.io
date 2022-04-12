@@ -1,11 +1,34 @@
-5	Hardware
-5.1	Right-to-repair
-5.2	Making your own things with 3d printing
-5.3	DIY home security
-5.4	Hackaday
+# The Sustainability Challenge
+
+This challenge is for the makers and the environmentally conscious.  
 
 
-# Hardware
+
+
+
+### Reuse old hardware
+
+We can prevent tons of electronic waste from going into landfills by repurposing or down-cycling our old tech.  Older computers that are sluggish with Windows tend to perform like new with Linux installed on them.  
+
+### Join a community makerspace
+
+### Learn to repair broken electronics
+
+### 3D print stuff
+
+### Recognize the elephant in the cryptocurrency room
+
+Bitcoin CO2 emissions.  
+
+
+
+
+
+
+
+# Resources
+
+## Education and Community
 
 - [Hackaday.io](https://hackaday.io) - Hackaday.io is the world's largest collaborative hardware development community.
 
@@ -16,6 +39,8 @@
     - [Make: Magazine](https://makezine.com) - A magazine and blog 
 
     - [Maker Faire](https://makerfaire.com) - The intersection of technology, culture, art and science, Maker Faires are a celebration of innovation, creativity and curiosity.
+
+- [Engineering For Change](https://www.engineeringforchange.org)
 
 ## Right-to-repair
 
@@ -30,23 +55,7 @@
 
 - [Thingiverse](https://www.thingiverse.com) - A massive host of 3d printing files for nearly every kind of object imaginable.
 
-## Makerspaces
 
-(Article) [Starting a Makerspace? Your Beginner’s Guide](https://smithsystem.com/smithfiles/starting-a-makerspace-beginners-guide/)
-
-## DIY Home Security
-
-Shinobi
 
 ## Re-purposing Old Technology
 
-## Off-grid Power
-
-- Article [The Sustainability Commons: Using Open Source Design to Address Climate Change](https://www.shareable.net/the-sustainability-commons-using-open-source-design-to-address-climate-change/)
-
-- Wayback Link [POC21](https://web.archive.org/web/20210910112404/http://www.poc21.cc/)
-
-- [Pop-up Solar Generator: SunZilla 3.0](https://www.instructables.com/Pop-up-Solar-Generator-SunZilla-30/)
-
-- [$30 Vertical Axis Wind Turbine From Scrap Materials
-](https://www.instructables.com/Vertial-Axis-Wind-Turbine-from-30-Of-Scrap-Materia/)

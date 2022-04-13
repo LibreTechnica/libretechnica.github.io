@@ -63,3 +63,13 @@ Aimed at those who set up tools and services for others.
 
 - [$30 Vertical Axis Wind Turbine From Scrap Materials
 ](https://www.instructables.com/Vertial-Axis-Wind-Turbine-from-30-Of-Scrap-Materia/)
+
+
+
+
+
+
+
+Sort:
+
+https://www.opensourcealternative.to

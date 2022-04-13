@@ -1,17 +1,28 @@
 # The big questions
 
 
-How can I protect my personal data from being collected and used to generate profits for corporations?
+- How can I protect my personal data from being collected and used to generate profits for corporations?
 
-How can I protect my privacy from government surveillance?
+- How can I protect my privacy from government surveillance?
 
-How can I reduce the environmental impact of the technology that I use?
+- How can I reduce the environmental impact of the technology that I use?
 
 
 # What you can do
 
-Text leading up to the FOSS Challenge, Privacy Challenge, and the Sustainability Challenge. 
+We've devise three challenges that will help you liberate your technology and protect your data.  
 
+**FOSS Challenge**
+
+What's a better price than free?  Take the FOSS challenge and switch to free and open-source software.  
+
+**Privacy Challenge**
+
+Paranoid?  You should be!  By taking the Privacy Challenge, you will keep your data from prying eyes.
+
+**Sustainability Challenge** 
+
+Are you a maker, tinkerer, or hardware hacker?  Or perhaps you're environmentally conscious.  This is the challenge for you!  
 
 
 

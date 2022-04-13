@@ -1,7 +1,6 @@
 # Welcome to LibreTechnica!
-LibreTechnica shares knowledge about technologies developed for the benefit of the commons. By promoting open-source technologies that are free from and resistant to corporate control, government censorship, political coercion, and environmental harm, we can together heighten and sustain the common good.
 
-*LibreTechnica is just starting out as a spin-off/superset of [CryptoParty](https://www.cryptoparty.in/), the decentralized movement to share knowledge about protecting yourself in the digital space. If you are looking to contribute by writing some guides, designing graphics and branding, or organizing, please reach out to us on Twitter [@LibreTechnica](https://twitter.com/LibreTechnica).*
+LibreTechnica shares knowledge about technologies developed for the benefit of the commons. By promoting open-source technologies that are free from and resistant to corporate control, government censorship, political coercion, and environmental harm, we can together heighten and sustain the common good.
 
 ### Areas of Focus
 - **Applications:** open source software and operating systems, secure messaging, encryption tools
@@ -23,23 +22,17 @@ This mission supports our vision where the people have full knowledge and contro
 
 --------------------
 
-## Contributing (incomplete)
+## Seeking Contributors! 
 
-Contributing guidelines can be found in [.github/CONTRIBUTING.md](.github/CONTRIBUTING.md).
-
-## Authors (incomplete)
-
-The list of authors can be found in [AUTHORS.md](AUTHORS.md).
+*LibreTechnica is just starting out as a spin-off/superset of [CryptoParty](https://www.cryptoparty.in/), the decentralized movement to share knowledge about protecting yourself in the digital space. If you are looking to contribute by writing some guides, designing graphics and branding, building a static site, or organizing, please reach out to us on Twitter [@LibreTechnica](https://twitter.com/LibreTechnica).*
 
 --------------------
 
-## External Links
+## Mirrors
 
-- [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets) - List of high quality, topic-centric public data sources.
+- [github.com/LibreTechnica/libretechnica.github.io](https://github.com/LibreTechnica/libretechnica.github.io)
 
-- Dynamic Domain Name services: [Afraid.org](https://freedns.afraid.org/domain/registry/), [Pagekite](https://pagekite.net/)
-
-- Mirrors: [GitHub.com](https://github.com/LibreTechnica/libretechnica.github.io), [Gitlab.com](https://gitlab.com/LibreTechnica/libretechnica-github-io)
+- [gitlab.com/LibreTechnica/libretechnica.github.io](https://gitlab.com/LibreTechnica/libretechnica-github-io)
 
 
 --------------------

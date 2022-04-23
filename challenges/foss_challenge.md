@@ -3,7 +3,7 @@
 Using free and open-source (FOSS) software is one of the best ways you can liberate your technology.  The deeper you go into this challenge, the less dependent you are on commercial software ecosystems like Microsoft and Apple.  So let's begin the FOSS Challenge!
 
 --------------------
-### 1. Switch to FOSS alternatives to common software
+### Level 1. Switch to FOSS alternatives to common software
 
 The free software has a long history dating back decades.  Today, there are very few things you cannot do with free and open-source software.  
 
@@ -20,7 +20,7 @@ Check out these Resources for lists upon lists of FOSS alternitives!
 *Security bonus* - use privacy tools like Signal.
 
 --------------------
-### 2. Install Linux on your desktop or laptop
+### Level 2. Install Linux on your desktop or laptop
 
 At the core of our daily computing experience is the operating system.  You're most likely familiar with Microsoft Windows or Apple MacOS, but did you know there is another way?  A way that offers more customization, faster performance, less malware, and absolutley zero user tracking?  Meet Linux, a family of open-source operating systems that you can install for free.  
 
@@ -33,14 +33,14 @@ There are many kinds of Linux to choose from, but don't let that scare you!  If 
 Check out these Resources for more information on making the switch!
 
 --------------------
-### 3. Switch to FOSS services
+### Level 3. Switch to FOSS services
 
 - OpenStreetMap is the only one I can think of at the moment.  Remove this if this isn't defined enough.
 
 
 
 --------------------
-### 4. Self-host your own services
+### Level 4. Self-host your own services
 
 Software-as-a-Service (SaaS) has added immense convenience to our lives.  Webmail has replaced the email client, cloud storage has replaced local backups, and even whole office suites are available on the web.  Many of these services require you to pay a subscription fee and let them have full access to your data, or you just host the services yoursel instead!  All you need is a home server or you can run a personal server instance on a cloud provider.  
 
@@ -57,7 +57,7 @@ Check out these Resources for more information on self-hosting!
 *Sustainability Bonus* - Use and old laptop or PC as your home server.
 
 --------------------
-### 5 (maybe). Use open-source hardware?
+### Level 5 (maybe). Use open-source hardware?
 
 It's hard to believe that, with how complicated our electronic devices are these days, there are products that have completely open design and licenses.  Blah blah blah...
 

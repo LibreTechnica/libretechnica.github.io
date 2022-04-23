@@ -2,7 +2,7 @@
 
 
 
-
+### Level 1. Use secure messaging apps
 
 
 ### De-Google your life!  
@@ -12,7 +12,7 @@ Use services that do not monetize your private data.  A great resource for this 
 - Search Enging - DuckDuckGo
 - Email - ProtonMail
 
-### Use secure messaging apps
+
 
 ### Use a Virtual Private Network (VPN)
 

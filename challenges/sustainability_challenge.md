@@ -10,11 +10,15 @@ This challenge is for the makers and the environmentally conscious.
 
 We can prevent tons of electronic waste from going into landfills by repurposing or down-cycling our old tech.  Older computers that are sluggish with Windows tend to perform like new with Linux installed on them.  
 
+
+
+### 3D print stuff
+
 ### Join a community makerspace
 
 ### Learn to repair broken electronics
 
-### 3D print stuff
+
 
 ### Recognize the elephant in the cryptocurrency room
 

@@ -1,10 +1,14 @@
+# Resources for Organizations and Families
+
+This page is meant to help you build out your business infrastructure or SOHO (small office, home office) network from FOSS software and services.
+
+Additionally, there are resources for increasing your household's resiliency with off-grid power! 
 
 ## Services and Infrastructure
 
-Aimed at those who set up tools and services for others.
+Aimed at those who set up IT infrastructure for others.
 
 ### Self-hosting
-
 
 > "Self-hosting is the practice of locally hosting and managing applications instead of renting from [SaaSS](https://www.gnu.org/philosophy/who-does-that-server-really-serve.html) providers." Source: Awesome-Selfhosted
 

@@ -6,9 +6,12 @@ This challenge is for the makers and the environmentally conscious.
 
 
 
-### Reuse old hardware
+### Reuse or donate old hardware
 
-We can prevent tons of electronic waste from going into landfills by repurposing or down-cycling our old tech.  Older computers that are sluggish with Windows tend to perform like new with Linux installed on them.  
+We can prevent tons of electronic waste from going into landfills by repurposing or down-cycling our old tech.  Older computers that are sluggish with Windows tend to perform like new with Linux installed on them.
+
+
+
 
 
 

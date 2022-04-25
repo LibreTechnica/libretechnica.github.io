@@ -33,9 +33,11 @@ There are many kinds of Linux to choose from, but don't let that scare you!  If 
 Check out these Resources for more information on making the switch!
 
 --------------------
-### Level 3. Switch to FOSS services
+### Level 3. Switch to FOSS or privacy-focused services
 
-- OpenStreetMap is the only one I can think of at the moment.  Remove this if this isn't defined enough.
+Remove this if this isn't defined enough.
+
+- OpenStreetMap is the only one I can think of at the moment.  
 
 
 

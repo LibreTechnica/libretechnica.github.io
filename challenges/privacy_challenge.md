@@ -23,6 +23,8 @@ Shinobi
 
 ### Delete Facebook
 
+### Set up a Pi-Hole
+
 ### 10.  Go live in a cabin in the woods
 
 

@@ -1,4 +1,5 @@
 canonifyURLs = false
 baseURL = "https://libretechnica.github.io"
+publishDir = "docs"
 languageCode = "en-us"
 title = "Welcome to LibreTechnica!"

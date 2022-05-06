@@ -1,1 +1,2 @@
 canonifyURLs = false
+baseURL = "https://github.com/LibreTechnica/libretechnica.github.io"

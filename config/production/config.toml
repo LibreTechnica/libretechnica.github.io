@@ -1,2 +1,4 @@
 canonifyURLs = false
-baseURL = "https://github.com/LibreTechnica/libretechnica.github.io"
+baseURL = "https://libretechnica.github.io"
+languageCode = "en-us"
+title = "Welcome to LibreTechnica!"

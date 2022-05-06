@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Modern Documentation Theme on Welcome to LibreTechnica!</title>
+    <link>https://libretechnica.github.io/</link>
+    <description>Recent content in Modern Documentation Theme on Welcome to LibreTechnica!</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright (c) 2020-2021 Henk Verlinde</copyright>
+    <lastBuildDate>Tue, 06 Oct 2020 08:47:36 +0000</lastBuildDate>
+    
+        <atom:link href="https://libretechnica.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Versions</title>
+      <link>https://libretechnica.github.io/docs/versions/</link>
+      <pubDate>Fri, 24 Sep 2021 08:50:23 +0200</pubDate>
+      
+      <guid>https://libretechnica.github.io/docs/versions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Blog</title>
+      <link>https://libretechnica.github.io/blog/</link>
+      <pubDate>Tue, 06 Oct 2020 08:49:55 +0000</pubDate>
+      
+      <guid>https://libretechnica.github.io/blog/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Docs</title>
+      <link>https://libretechnica.github.io/docs/</link>
+      <pubDate>Tue, 06 Oct 2020 08:48:23 +0000</pubDate>
+      
+      <guid>https://libretechnica.github.io/docs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://libretechnica.github.io/contact/</link>
+      <pubDate>Thu, 27 Aug 2020 19:25:12 +0200</pubDate>
+      
+      <guid>https://libretechnica.github.io/contact/</guid>
+      <description>user=&#34;hello&#34;,domain=&#34;getdoks.org&#34;,document.write(user+&#34;@&#34;+domain);hello at getdoks.org </description>
+    </item>
+    
+    <item>
+      <title>Privacy Policy</title>
+      <link>https://libretechnica.github.io/privacy-policy/</link>
+      <pubDate>Thu, 27 Aug 2020 19:23:18 +0200</pubDate>
+      
+      <guid>https://libretechnica.github.io/privacy-policy/</guid>
+      <description>TLDR: We do not use cookies and we do not collect any personal data.
+Website visitors # No personal information is collected. No information is stored in the browser. No information is shared with, sent to or sold to third-parties. No information is shared with advertising companies. No information is mined and harvested for personal and behavioral trends. No information is monetized.  Information we collect and what we use it for #We run Plausible analytics on getdoks.</description>
+    </item>
+    
+  </channel>
+</rss>

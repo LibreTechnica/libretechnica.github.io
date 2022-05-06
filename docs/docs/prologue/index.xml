@@ -31,6 +31,18 @@ Create a new site #Doks is available as a child theme, and a starter theme:
     </item>
     
     <item>
+      <title>Test Page</title>
+      <link>https://libretechnica.github.io/docs/prologue/testpage/</link>
+      <pubDate>Mon, 16 Nov 2020 13:59:39 +0100</pubDate>
+      
+      <guid>https://libretechnica.github.io/docs/prologue/testpage/</guid>
+      <description>Will this work? #Doks uses npm to centralize dependency management, making it easy to update resources, build tooling, plugins, and build scripts:
+ Download and install Node.js (it includes npm) for your platform.  Start a new Doks project #Create a new site, change directories, install dependencies, and start development server.
+Create a new site #Doks is available as a child theme, and a starter theme:
+ Use the Doks child theme, if you do not plan to customize a lot, and/or need future Doks updates.</description>
+    </item>
+    
+    <item>
       <title>Commands</title>
       <link>https://libretechnica.github.io/docs/prologue/commands/</link>
       <pubDate>Tue, 13 Oct 2020 15:21:01 +0200</pubDate>

@@ -1,140 +1,50 @@
-<p align="center">
-  <a href="https://getdoks.org/">
-    <img alt="Doks" src="https://doks.netlify.app/logo-doks.svg" width="60">
-  </a>
-</p>
+# Welcome to LibreTechnica!
 
-<h1 align="center">
-  Doks
-</h1>
+LibreTechnica shares knowledge about technologies developed for the benefit of the commons. By promoting open-source technologies that are free from and resistant to corporate control, government censorship, political coercion, and environmental harm, we can together heighten and sustain the common good.
 
-<h3 align="center">
-  Doks Child Theme
-</h3>
+## Our Mission
+LibreTechnica's mission is to encourage others to learn and adopt technologies for the benefit of the commons. Some example of our activities are: :
 
-<p align="center">
-  Doks is a Hugo theme for building secure, fast, and SEO-ready documentation websites, which you can easily update and customize.
-</p>
+- Teaching people how to protect their privacy with secure messaging apps and email services
+- Introducing computer users to the Linux operating system and other open-source software
+- Promoting sustainable technologies, practices, and policies
+- Helping small business and non-profit organizations implement free and open-source software for their infrastructure
+- Supporting the deployment of independent, community-based network infrastructure
 
-<p align="center">
-  <a href="https://github.com/h-enk/doks-child-theme/blob/master/LICENSE">
-    <img src="https://img.shields.io/github/license/h-enk/doks-child-theme?style=flat-square" alt="GitHub">
-  </a>
-  <a href="https://github.com/h-enk/doks-child-theme/releases">
-    <img src="https://img.shields.io/github/v/release/h-enk/doks-child-theme?include_prereleases&style=flat-square"alt="GitHub release (latest SemVer including pre-releases)">
-  </a>
-  <a href="https://github.com/h-enk/doks-child-theme/actions/workflows/codeql-analysis.yml">
-    <img src="https://img.shields.io/github/workflow/status/h-enk/doks-child-theme/CodeQL/master?style=flat-square" alt="GitHub Workflow Status (branch)">
-  </a>
-  <a href="https://app.netlify.com/sites/hyas-child-theme/deploys">
-    <img src="https://img.shields.io/netlify/75395a37-8537-4410-a8c3-d56bf27ec963?style=flat-square" alt="Netlify">
-  </a>
-</p>
+This mission supports our vision where the people have full knowledge and control over whom their data serves. Through the democratization of technology, we will weaken the strongholds that corporations have on our data and our lives.
 
-![Doks — Modern Documentation Theme](https://raw.githubusercontent.com/h-enk/doks/master/images/tn.png)
+### Areas of Focus
+- **Applications:** open source software and operating systems, secure messaging, encryption tools
+- **Services and Infrastructure:** self-hosting, decentralized/federated services, OpenStreetMap, censorship-resistant platforms
+- **Hardware:** right-to-repair, 3d printing, makerspaces, DIY home security, re-purposing old technology
+- **Connectivity:** mesh networks, amateur radio
+- **Policy:** While LibreTechnica advocates for policies that favorable to the public at large, the above solutions are intended to work whether or not such policies are adopted.
 
-## Demo
 
-- [doks-child-theme.netlify.app](https://doks-child-theme.netlify.app/)
+--------------------
 
-## Why Doks?
 
-Nine main reasons why you should use Doks:
+## Seeking Contributors! 
 
-1. __Security aware__. Get A+ scores on [Mozilla Observatory](https://observatory.mozilla.org/analyze/doks.netlify.app) out of the box. Easily change the default Security Headers to suit your needs.
+*LibreTechnica is just starting out as a spin-off/superset of [CryptoParty](https://www.cryptoparty.in/), the decentralized movement to share knowledge about protecting yourself in the digital space. If you are looking to contribute by writing some guides, designing graphics and branding, building a static site, or organizing, please reach out to us on Twitter [@LibreTechnica](https://twitter.com/LibreTechnica).  You can also post to [General Project Discussion](https://github.com/LibreTechnica/libretechnica.github.io/issues/1) issues page.*
 
-2. __Fast by default__. Get 100 scores on [Google Lighthouse](https://googlechrome.github.io/lighthouse/viewer/?gist=7731347bb8ce999eff7428a8e763b637) by default. Doks removes unused css, prefetches links, and lazy loads images.
+### About the branches...
 
-3. __SEO-ready__. Use sensible defaults for structured data, open graph, and Twitter cards. Or easily change the SEO settings to your liking.
+I'm using the Main branch to organize thoughts, concepts, and content for what the site will be.  The gh_pages branch is where I'm playing with static-site generation with Hugo.
 
-4. __Development tools__. Code with confidence. Check styles, scripts, and markdown for errors and fix automatically or manually.
+--------------------
 
-5. __Bootstrap framework__. Build robust, flexible, and intuitive websites with Bootstrap 5. Easily customize your Doks site with the source Sass files.
+## Mirrors
 
-6. __Netlify-ready__. Deploy to Netlify with sensible defaults. Easily use Netlify Functions, Netlify Redirects, and Netlify Headers.
+- [github.com/LibreTechnica/libretechnica.github.io](https://github.com/LibreTechnica/libretechnica.github.io)
 
-7. __Full text search__. Search your Doks site with FlexSearch. Easily customize index settings and search options to your liking.
+- [gitlab.com/LibreTechnica/libretechnica.github.io](https://gitlab.com/LibreTechnica/libretechnica-github-io)
 
-8. __Page layouts__. Build pages with a landing page, blog, or documentation layout. Add custom sections and components to suit your needs.
 
-9. __Dark mode__. Switch to a low-light UI with the click of a button. Change colors with variables to match your branding.
+--------------------
 
-### Other features
+## License and Attribution
 
-- __Multilingual and i18n__ support
-- __Versioning__ documentation support
-- __KaTeX__ math typesetting
-- __Mermaid__ diagrams and visualization
-- __highlight.js__ syntax highlighting
+LibreTechnica content is licensed under the [Creative Commons Attribution-ShareAlike 3.0 Unported](LICENSE) license.
 
-## Requirements
-
-Doks uses npm to centralize dependency management, making it [easy to update](https://getdoks.org/docs/help/how-to-update/) resources, build tooling, plugins, and build scripts:
-
-- Download and install [Node.js](https://nodejs.org/) (it includes npm) for your platform.
-
-## Get started
-
-Start a new Doks project in three steps:
-
-### 1. Create a new site
-
-Doks is available as a child theme, and a starter theme:
-
-- Use the Doks child theme, if you do __not__ plan to customize a lot, and/or need future Doks updates.
-- Use the Doks starter theme, if you plan to customize a lot, and/or do __not__ need future Doks updates.
-
-Not quite sure? Use the Doks child theme.
-
-#### Doks child theme
-
-```bash
-git clone https://github.com/h-enk/doks-child-theme.git my-doks-site && cd my-doks-site
-```
-
-#### Doks starter theme
-
-```bash
-git clone https://github.com/h-enk/doks.git my-doks-site && cd my-doks-site
-```
-
-### 2. Install dependencies
-
-```bash
-npm install
-```
-
-### 3. Start development server
-
-```bash
-npm run start
-```
-
-## Other commands
-
-Doks comes with [commands](https://getdoks.org/docs/prologue/commands/) for common tasks.
-
-## Documentation
-
-- [Netlify](https://docs.netlify.com/)
-- [Hugo](https://gohugo.io/documentation/)
-- [Doks](https://getdoks.org/)
-
-## Communities
-
-- [Netlify Community](https://community.netlify.com/)
-- [Hugo Forums](https://discourse.gohugo.io/)
-- [Doks Discussions](https://github.com/h-enk/doks/discussions)
-
-## Sponsors
-
-Support this project by becoming a sponsor. Your logo will show up here with a link to your website.
-
-[![OC sponsor 0](https://opencollective.com/doks/tiers/sponsor/0/avatar.svg)](https://opencollective.com/doks/tiers/sponsor/0/website)
-[![OC sponsor 1](https://opencollective.com/doks/tiers/sponsor/1/avatar.svg)](https://opencollective.com/doks/tiers/sponsor/1/website)
-
-## Backers
-
-Support this project by becoming a backer. Your avatar will show up here.
-
-[![Backers](https://opencollective.com/doks/tiers/backer.svg)](https://opencollective.com/doks)
+**[`^        back to top        ^`](#)**

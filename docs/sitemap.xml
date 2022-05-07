@@ -24,7 +24,21 @@
   </url>
   
   <url>
+    <loc>https://libretechnica.github.io/about/aboutus/</loc>
+    <lastmod>2020-10-06T08:48:45+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://libretechnica.github.io/docs/individuals/privacy_challenge/</loc>
+    <lastmod>2020-10-06T08:48:45+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://libretechnica.github.io/about/contribute/</loc>
     <lastmod>2020-10-06T08:48:45+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -45,6 +59,20 @@
   </url>
   
   <url>
+    <loc>https://libretechnica.github.io/docs/getstarted/starthere/</loc>
+    <lastmod>2020-10-06T08:48:45+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://libretechnica.github.io/docs/getstarted/threatmodel/</loc>
+    <lastmod>2020-10-06T08:48:45+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://libretechnica.github.io/docs/communities/communities/</loc>
     <lastmod>2020-10-06T08:48:45+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -59,15 +87,15 @@
   </url>
   
   <url>
-    <loc>https://libretechnica.github.io/contributors/henk-verlinde/</loc>
-    <lastmod>2020-10-06T08:50:45+00:00</lastmod>
+    <loc>https://libretechnica.github.io/contributors/</loc>
+    <lastmod>2020-11-04T09:19:42+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://libretechnica.github.io/contributors/</loc>
-    <lastmod>2020-10-06T08:50:29+00:00</lastmod>
+    <loc>https://libretechnica.github.io/contributors/henk-verlinde/</loc>
+    <lastmod>2020-11-04T09:19:42+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -80,7 +108,21 @@
   </url>
   
   <url>
+    <loc>https://libretechnica.github.io/about/</loc>
+    <lastmod>2020-10-06T08:48:45+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://libretechnica.github.io/docs/communities/</loc>
+    <lastmod>2020-10-06T08:48:45+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://libretechnica.github.io/docs/getstarted/</loc>
     <lastmod>2020-10-06T08:48:45+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>

@@ -1,6 +1,6 @@
 ---
-title : "Organizations"
-description: "Organizations"
+title : "Resources for Organizations and Families"
+description: "Resources for Organizations and Families"
 lead: ""
 date: 2020-10-06T08:48:45+00:00
 lastmod: 2020-10-06T08:48:45+00:00
@@ -11,8 +11,6 @@ menu:
 weight: 210
 images: []
 ---
-# Resources for Organizations and Families
-
 This page is meant to help you build out your business infrastructure or SOHO (small office, home office) network from FOSS software and services.
 
 Additionally, there are resources for increasing your household's resiliency with off-grid power! 

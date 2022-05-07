@@ -9,6 +9,13 @@
     </url>
     
     <url>
+      <loc>https://libretechnica.github.io/docs/getstarted/</loc>
+      <lastmod>2020-10-06T08:48:45+00:00</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+    <url>
       <loc>https://libretechnica.github.io/docs/individuals/</loc>
       <lastmod>2020-10-06T08:48:45+00:00</lastmod>
       <changefreq>weekly</changefreq>
@@ -23,6 +30,18 @@
     </url>
     <url>
         <loc>https://libretechnica.github.io/docs/communities/communities/</loc>
+        <lastmod>2020-10-06T08:48:45+00:00</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.5</priority>
+      </url>
+      <url>
+        <loc>https://libretechnica.github.io/docs/getstarted/starthere/</loc>
+        <lastmod>2020-10-06T08:48:45+00:00</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.5</priority>
+      </url>
+      <url>
+        <loc>https://libretechnica.github.io/docs/getstarted/threatmodel/</loc>
         <lastmod>2020-10-06T08:48:45+00:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.5</priority>

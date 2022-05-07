@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Organizations on Welcome to LibreTechnica!</title>
+    <link>https://libretechnica.github.io/docs/organizations/</link>
+    <description>Recent content in Organizations on Welcome to LibreTechnica!</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 06 Oct 2020 08:48:45 +0000</lastBuildDate><atom:link href="https://libretechnica.github.io/docs/organizations/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Organizations</title>
+      <link>https://libretechnica.github.io/docs/organizations/organizations/</link>
+      <pubDate>Tue, 06 Oct 2020 08:48:45 +0000</pubDate>
+      
+      <guid>https://libretechnica.github.io/docs/organizations/organizations/</guid>
+      <description>Resources for Organizations and Families #This page is meant to help you build out your business infrastructure or SOHO (small office, home office) network from FOSS software and services.
+Additionally, there are resources for increasing your household&amp;rsquo;s resiliency with off-grid power!
+Services and Infrastructure #Aimed at those who set up IT infrastructure for others.
+Self-hosting # &amp;ldquo;Self-hosting is the practice of locally hosting and managing applications instead of renting from SaaSS providers.</description>
+    </item>
+    
+  </channel>
+</rss>

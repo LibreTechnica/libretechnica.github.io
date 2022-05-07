@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://libretechnica.github.io/sitemap.xml

@@ -9,6 +9,27 @@
     </url>
     
     <url>
+      <loc>https://libretechnica.github.io/docs/communities/</loc>
+      <lastmod>2020-10-06T08:48:45+00:00</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+    <url>
+      <loc>https://libretechnica.github.io/docs/individuals/</loc>
+      <lastmod>2020-10-06T08:48:45+00:00</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+    <url>
+      <loc>https://libretechnica.github.io/docs/organizations/</loc>
+      <lastmod>2020-10-06T08:48:45+00:00</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+    <url>
       <loc>https://libretechnica.github.io/docs/prologue/</loc>
       <lastmod>2020-10-06T08:48:45+00:00</lastmod>
       <changefreq>weekly</changefreq>
@@ -29,6 +50,42 @@
       <url>
         <loc>https://libretechnica.github.io/docs/help/faq/</loc>
         <lastmod>2020-10-06T08:49:31+00:00</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.5</priority>
+      </url>
+      <url>
+        <loc>https://libretechnica.github.io/docs/communities/communities/</loc>
+        <lastmod>2020-10-06T08:48:45+00:00</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.5</priority>
+      </url>
+      <url>
+        <loc>https://libretechnica.github.io/docs/individuals/whatcanido/</loc>
+        <lastmod>2020-10-06T08:48:45+00:00</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.5</priority>
+      </url>
+      <url>
+        <loc>https://libretechnica.github.io/docs/individuals/foss_challenge/</loc>
+        <lastmod>2020-10-06T08:48:45+00:00</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.5</priority>
+      </url>
+      <url>
+        <loc>https://libretechnica.github.io/docs/individuals/privacy_challenge/</loc>
+        <lastmod>2020-10-06T08:48:45+00:00</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.5</priority>
+      </url>
+      <url>
+        <loc>https://libretechnica.github.io/docs/individuals/sustainability_challenge/</loc>
+        <lastmod>2020-10-06T08:48:45+00:00</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.5</priority>
+      </url>
+      <url>
+        <loc>https://libretechnica.github.io/docs/organizations/organizations/</loc>
+        <lastmod>2020-10-06T08:48:45+00:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.5</priority>
       </url>

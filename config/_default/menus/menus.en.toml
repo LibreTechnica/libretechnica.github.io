@@ -6,9 +6,27 @@
 
 [[docs]]
   name = "Help"
-  weight = 60
+  weight = 20
   identifier = "help"
   url = "/docs/help/"
+
+[[docs]]
+  name = "Individuals"
+  weight = 30
+  identifier = "individuals"
+  url = "/docs/individuals/"
+
+[[docs]]
+  name = "Organizations"
+  weight = 40
+  identifier = "organizations"
+  url = "/docs/organizations/"
+
+[[docs]]
+  name = "Communities"
+  weight = 50
+  identifier = "communities"
+  url = "/docs/communities/"
 
 # [[docs]]
 #   name = "Lorem"

@@ -12,10 +12,8 @@ weight: 130
 images: []
 ---
 
-# The Privacy Challenge
 
-
-
+--------------------
 ### Level 1. Use secure messaging apps
 
 

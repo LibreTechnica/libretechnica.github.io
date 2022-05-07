@@ -11,7 +11,6 @@ menu:
 weight: 110
 images: []
 ---
-#
 
 # The big questions
 

@@ -12,8 +12,6 @@ weight: 120
 images: []
 ---
 
-# The FOSS Challenge
-
 Using free and open-source (FOSS) software is one of the best ways you can liberate your technology.  The deeper you go into this challenge, the less dependent you are on commercial software ecosystems like Microsoft and Apple.  So let's begin the FOSS Challenge!
 
 --------------------

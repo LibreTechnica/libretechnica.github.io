@@ -26,11 +26,11 @@ This mission supports our vision where the people have full knowledge and contro
 
 ## Seeking Contributors! 
 
-*LibreTechnica is just starting out as a spin-off/superset of [CryptoParty](https://www.cryptoparty.in/), the decentralized movement to share knowledge about protecting yourself in the digital space. If you are looking to contribute by writing some guides, designing graphics and branding, building a static site, or organizing, please reach out to us on Twitter [@LibreTechnica](https://twitter.com/LibreTechnica).  You can also post to [General Project Discussion](https://github.com/LibreTechnica/libretechnica.github.io/issues/1) issues page.*
+*LibreTechnica is just starting out as a spin-off/superset of [CryptoParty](https://www.cryptoparty.in/), the decentralized movement to share knowledge about protecting yourself in the digital space. If you are looking to contribute by writing some guides, designing graphics and branding, or organizing, please reach out to us on Twitter [@LibreTechnica](https://twitter.com/LibreTechnica).  You can also post to [General Project Discussion](https://github.com/LibreTechnica/libretechnica.github.io/issues/1) issues page.*
 
-### About the branches...
+### About the site...
 
-I'm using the Main branch to organize thoughts, concepts, and content for what the site will be.  The gh_pages branch is where I'm playing with static-site generation with Hugo.
+The `gh_pages` branch where the GitHub Pages site resides.  The site is built with the static-site generator [Hugo](https://gohugo.io) using the [Doks](https://getdoks.org) theme.  The site is generated from files located in `libretechnica.github.io/content/en/`.  After pull requests are reviewed, we'll regenerate the site and push the changes.  
 
 --------------------
 

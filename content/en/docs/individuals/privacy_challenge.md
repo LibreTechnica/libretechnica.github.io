@@ -21,7 +21,7 @@ images: []
 
 Use services that do not monetize your private data.  A great resource for this is [PrivacyGuides.org](https://www.privacyguides.org/tools/).  Their recommendations are a great way to ween yourself out of the world of online trackers.  Here are some good alternatives to start with.
 
-- Search Enging - DuckDuckGo
+- Search Enging - DuckDuckGo, [Brave](https://search.brave.com)
 - Email - ProtonMail
 
 

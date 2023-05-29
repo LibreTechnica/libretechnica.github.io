@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Organizations on Welcome to LibreTechnica!</title>
-    <link>https://libretechnica.github.io/docs/organizations/</link>
+    <link>https://libretechnica.org/docs/organizations/</link>
     <description>Recent content in Organizations on Welcome to LibreTechnica!</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 06 Oct 2020 08:48:45 +0000</lastBuildDate><atom:link href="https://libretechnica.github.io/docs/organizations/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 06 Oct 2020 08:48:45 +0000</lastBuildDate><atom:link href="https://libretechnica.org/docs/organizations/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Business Tools</title>
-      <link>https://libretechnica.github.io/docs/organizations/business/</link>
+      <link>https://libretechnica.org/docs/organizations/business/</link>
       <pubDate>Tue, 06 Oct 2020 08:48:45 +0000</pubDate>
       
-      <guid>https://libretechnica.github.io/docs/organizations/business/</guid>
+      <guid>https://libretechnica.org/docs/organizations/business/</guid>
       <description>Articles #How to run your small business with free open source software
 https://www.odoo.com</description>
     </item>
     
     <item>
       <title>Resources for Organizations and Families</title>
-      <link>https://libretechnica.github.io/docs/organizations/organizations/</link>
+      <link>https://libretechnica.org/docs/organizations/organizations/</link>
       <pubDate>Tue, 06 Oct 2020 08:48:45 +0000</pubDate>
       
-      <guid>https://libretechnica.github.io/docs/organizations/organizations/</guid>
+      <guid>https://libretechnica.org/docs/organizations/organizations/</guid>
       <description>This page is meant to help you build out your business infrastructure or SOHO (small office, home office) network from FOSS software and services.
 Additionally, there are resources for increasing your household&amp;rsquo;s resiliency with off-grid power!
 Services and Infrastructure #Aimed at those who set up IT infrastructure for others.
-Self-hosting # &amp;ldquo;Self-hosting is the practice of locally hosting and managing applications instead of renting from SaaSS providers.&amp;rdquo; Source: Awesome-Selfhosted</description>
+Self-hosting #&amp;ldquo;Self-hosting is the practice of locally hosting and managing applications instead of renting from SaaSS providers.&amp;rdquo; Source: Awesome-Selfhosted</description>
     </item>
     
   </channel>

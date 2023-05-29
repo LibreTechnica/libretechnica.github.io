@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://libretechnica.github.io/sitemap.xml
+Sitemap: https://libretechnica.org/sitemap.xml

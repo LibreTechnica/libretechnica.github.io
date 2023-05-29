@@ -2,14 +2,14 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
     <url>
-      <loc>https://libretechnica.github.io/about/aboutus/</loc>
+      <loc>https://libretechnica.org/about/aboutus/</loc>
       <lastmod>2020-10-06T08:48:45+00:00</lastmod>
       <changefreq>weekly</changefreq>
       <priority>0.5</priority>
     </url>
     
     <url>
-      <loc>https://libretechnica.github.io/about/contribute/</loc>
+      <loc>https://libretechnica.org/about/contribute/</loc>
       <lastmod>2020-10-06T08:48:45+00:00</lastmod>
       <changefreq>weekly</changefreq>
       <priority>0.5</priority>

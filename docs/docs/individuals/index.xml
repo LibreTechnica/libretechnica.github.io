@@ -2,51 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Individuals on Welcome to LibreTechnica!</title>
-    <link>https://libretechnica.github.io/docs/individuals/</link>
+    <link>https://libretechnica.org/docs/individuals/</link>
     <description>Recent content in Individuals on Welcome to LibreTechnica!</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 06 Oct 2020 08:48:45 +0000</lastBuildDate><atom:link href="https://libretechnica.github.io/docs/individuals/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 06 Oct 2020 08:48:45 +0000</lastBuildDate><atom:link href="https://libretechnica.org/docs/individuals/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>What can I do?</title>
-      <link>https://libretechnica.github.io/docs/individuals/whatcanido/</link>
+      <link>https://libretechnica.org/docs/individuals/whatcanido/</link>
       <pubDate>Tue, 06 Oct 2020 08:48:45 +0000</pubDate>
       
-      <guid>https://libretechnica.github.io/docs/individuals/whatcanido/</guid>
-      <description>The big questions #  How can I protect my personal data from being collected and used to generate profits for corporations?
-  How can I protect my privacy from government surveillance?
-  How can I reduce the environmental impact of the technology that I use?
-  What you can do #We&amp;rsquo;ve devise three challenges that will help you liberate your technology and protect your data.</description>
+      <guid>https://libretechnica.org/docs/individuals/whatcanido/</guid>
+      <description>The big questions #How can I protect my personal data from being collected and used to generate profits for corporations?
+How can I protect my privacy from government surveillance?
+How can I reduce the environmental impact of the technology that I use?
+What you can do #We&amp;rsquo;ve devise three challenges that will help you liberate your technology and protect your data.
+FOSS Challenge
+What&amp;rsquo;s a better price than free?</description>
     </item>
     
     <item>
       <title>FOSS Challenge</title>
-      <link>https://libretechnica.github.io/docs/individuals/foss_challenge/</link>
+      <link>https://libretechnica.org/docs/individuals/foss_challenge/</link>
       <pubDate>Tue, 06 Oct 2020 08:48:45 +0000</pubDate>
       
-      <guid>https://libretechnica.github.io/docs/individuals/foss_challenge/</guid>
+      <guid>https://libretechnica.org/docs/individuals/foss_challenge/</guid>
       <description>Using free and open-source (FOSS) software is one of the best ways you can liberate your technology. The deeper you go into this challenge, the less dependent you are on commercial software ecosystems like Microsoft and Apple. So let&amp;rsquo;s begin the FOSS Challenge!
- Level 1. Switch to FOSS alternatives to common software #The free software has a long history dating back decades. Today, there are very few things you cannot do with free and open-source software.</description>
+Level 1. Switch to FOSS alternatives to common software #The free software has a long history dating back decades. Today, there are very few things you cannot do with free and open-source software.</description>
     </item>
     
     <item>
       <title>Privacy Challenge</title>
-      <link>https://libretechnica.github.io/docs/individuals/privacy_challenge/</link>
+      <link>https://libretechnica.org/docs/individuals/privacy_challenge/</link>
       <pubDate>Tue, 06 Oct 2020 08:48:45 +0000</pubDate>
       
-      <guid>https://libretechnica.github.io/docs/individuals/privacy_challenge/</guid>
-      <description>Level 1. Use secure messaging apps #De-Google your life! #Use services that do not monetize your private data. A great resource for this is PrivacyGuides.org. Their recommendations are a great way to ween yourself out of the world of online trackers. Here are some good alternatives to start with.
- Search Enging - DuckDuckGo, Brave Email - ProtonMail  Use a Virtual Private Network (VPN) #Install a DIY home security system #Shinobi</description>
+      <guid>https://libretechnica.org/docs/individuals/privacy_challenge/</guid>
+      <description>Digital Privacy is should be more important now than ever before. Countless concessions of our personal data in exchange for convenient online services have eroded our awareness of what others know about you. By taking this challenge, you can significantly reduce the amount of information that is collected about you and your online activites.
+Level 1. Use secure messaging apps #Level 2. Block Ads and Trackers #DNS (Domain Name System) is like the phonebook of the internet.</description>
     </item>
     
     <item>
       <title>Sustainability Challenge</title>
-      <link>https://libretechnica.github.io/docs/individuals/sustainability_challenge/</link>
+      <link>https://libretechnica.org/docs/individuals/sustainability_challenge/</link>
       <pubDate>Tue, 06 Oct 2020 08:48:45 +0000</pubDate>
       
-      <guid>https://libretechnica.github.io/docs/individuals/sustainability_challenge/</guid>
+      <guid>https://libretechnica.org/docs/individuals/sustainability_challenge/</guid>
       <description>This challenge is for the makers and the environmentally conscious.
- Reuse or donate old hardware #We can prevent tons of electronic waste from going into landfills by repurposing or down-cycling our old tech. Older computers that are sluggish with Windows tend to perform like new with Linux installed on them.
+Reuse or donate old hardware #We can prevent tons of electronic waste from going into landfills by repurposing or down-cycling our old tech. Older computers that are sluggish with Windows tend to perform like new with Linux installed on them.
 3D print stuff #Join a community makerspace #Learn to repair broken electronics #Recognize the elephant in the cryptocurrency room #Bitcoin CO2 emissions.</description>
     </item>
     

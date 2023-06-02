@@ -19,7 +19,7 @@ images: []
 
 ## Business/Productivity Software
 
-[Nextcloud](https://nextcloud.com) - Nextcloud is an open-source replaacement for Google Drive and Google Docs, OneDrive, and other collaboritive software suites.
+[Nextcloud](https://nextcloud.com) - An open-source replacement for Google Drive and Google Docs, OneDrive, and other collaboritive software suites.
 
 [Odoo](https://www.odoo.com) - "Odoo is a suite of open source business apps that cover all your company needs: CRM, eCommerce, accounting, inventory, point of sale, project management, etc."
 

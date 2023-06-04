@@ -33,7 +33,7 @@ This page is intended to take the form of an article, rather than a list of link
 (Control over how your information is monetized) (Alt. Wait, so I am the product?!)
 
 
-Many of us have taken advantage of the multitude of free services provided by tech companies.  And who could blame us?  THey provide numerous conveniences and benefits to our lives.  We can use the most powerful data-finding algorithms to search for even the most obsure information; we can connect and reach out to nearly everyone we know on social network platforms; we can simply ask a sophisticated AI to get anything we want delivered to our front doors the day after we order it.
+Many of us have taken advantage of the multitude of free services provided by tech companies.  And who could blame us?  They provide numerous conveniences and benefits to our lives.  We can use the most powerful data-finding algorithms to search for even the most obsure information; we can connect and reach out to nearly everyone we know on social network platforms; we can simply ask a sophisticated AI to get anything we want delivered to our front doors the day after we order it.
 
 While it's hard to imagine what life would be like without these services, it's even hard to imagine their true costs to us.
 

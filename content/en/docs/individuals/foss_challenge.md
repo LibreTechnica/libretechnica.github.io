@@ -21,11 +21,17 @@ The free software has a long history dating back decades.  Today, there are very
 
 Keep in mind that there is a ton of "free" software that is not open-source.  Free but proprietary software like Google Chrome and Discord are not truly free in the 'libre' sense of the word, so you cannot view or change the source code.  LibreTechnica believes you should have complete visibility into your software.  Let's take a look at some alternatives. 
 
-- Adobe Photoshop -> GIMP
-- Microsoft Office -> LibreOffice
-- Google Chrome -> Mozilla Firefox
+- Adobe Photoshop -> [GIMP](https://www.gimp.org/)
+- Microsoft Office -> [LibreOffice](https://www.libreoffice.org/)
+- Google Chrome -> [Mozilla Firefox](https://www.mozilla.org/)
 
-Don't forget to try FOSS on your smartphone, too!  Many good alternative FOSS apps for your Android phone can be downloaded through F-Droid.
+Don't forget to try FOSS on your smartphone, too!  Many good alternative FOSS apps for your Android phone can be downloaded through [F-Droid](https://f-droid.org/).
+
+#### Online Services and Apps
+
+Many commonly used online services have open-source cores.  For example, [Bitwarden](https://bitwarden.com/) is a popular password manager whose apps are openly developed, from the server to the mobile apps.  This open nature is preferable when you're involving sensitive information like your passwords.  If you can't look inside thier app, it's not even possible for you to verify they're not mishandling your data.
+
+Another consideration is using services with open datasets.  Google Maps owns all the map data used in their popular navigation appss, but [OpenStreetMap](https://www.openstreetmap.org/#map=18/33.02595/-96.88048) project democratizes that data and is openly accessible to anyone. 
 
 Check out these Resources for lists upon lists of FOSS alternitives!
 
@@ -45,13 +51,13 @@ There are many kinds of Linux to choose from, but don't let that scare you!  If 
 Check out these Resources for more information on making the switch!
 
 --------------------
-### Level 3. Switch to FOSS or privacy-focused services
+### Level 3. Switch federated and decentralized services
 
-Remove this if this isn't defined enough.
+Welcome to the Fediverse!  Not to be confused with the overhyped Metaverse, the _Fediverse_ just means "federated services".  These are services where individual instances are indepedently owned and operated, but work with others over shared, standard protocols.  The best example of this is e-mail.  Anyone can run their own e-mail server and exchange messages with other ones across the internet.  Other federated (or _decentralized_) services work the same way.  [Fediverse Party](https://fediverse.party/) lists some good alertnatives to Instagram, YouTube, and Facebook, but perhaps the most well-known is a Twitter-alternative called [Mastodon](https://joinmastodon.org/).  Here are some other decentralized alternives:
 
-- OpenStreetMap is the only one I can think of at the moment.  
-
-
+- YouTube -> [PeerTube](https://joinpeertube.org/)
+- Instagram -> [PixelFed](https://pixelfed.org/)
+- Spotify -> [Funkwhale](https://funkwhale.audio/)
 
 --------------------
 ### Level 4. Self-host your own services

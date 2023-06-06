@@ -14,7 +14,7 @@ images: []
 LibreTechnica shares knowledge about technologies developed for the benefit of the commons. By promoting open-source technologies that are free from and resistant to corporate control, government censorship, political coercion, and environmental harm, we can together heighten and sustain the common good.
 
 ## Our Mission
-LibreTechnica's mission is to encourage others to learn and adopt technologies for the benefit of the commons. Some example of our activities are: :
+LibreTechnica's mission is to encourage others to learn and adopt technologies for the benefit of the commons. Some example of our activities are:
 
 - Teaching people how to protect their privacy with secure messaging apps and email services
 - Introducing computer users to the Linux operating system and other open-source software

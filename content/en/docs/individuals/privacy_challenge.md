@@ -17,6 +17,7 @@ Digital Privacy is should be more important now than ever before.  Countless con
 --------------------
 ### Level 1. Use secure messaging apps
 
+Signal writeup
 
 ### Level 2. Block Ads and Trackers
 
@@ -26,21 +27,21 @@ Generally, your DNS requests are handled by your Internet Service Provider.  Whi
 
 Not only that, but trackers and malware are constantly making requests behind your back!  You can hinder all this by using an encrypted DNS service or by putting your very own ad blocker on your network.  
 
-Privacy Guide has some great insights on how to use an encrypted DNS filter like AdGuard or NextDNS (https://www.privacyguides.org/dns/).  To go fully self-hosted, you can set up your own ad blocker called Pi-Hole (https://pi-hole.net/).
+Privacy Guide has some great insights on how to use an encrypted DNS filter like AdGuard or NextDNS (see [https://www.privacyguides.org/dns/](https://www.privacyguides.org/dns/)).  To go fully self-hosted, you can set up your own ad blocker called [Pi-Hole](https://pi-hole.net/).
 
 
 ### Level 3. Use a Virtual Private Network (VPN)
 
-### Level 4. Delete Facebook
-
+### Level 4. Delete Facebook and Twitter
 
 ### Level 5. De-Google your life!  
 
 Use services that do not monetize your private data.  A great resource for this is [PrivacyGuides.org](https://www.privacyguides.org/tools/).  Their recommendations are a great way to ween yourself out of the world of online trackers.  Here are some good alternatives to start with.
 
-- Search Enging - DuckDuckGo, [Brave](https://search.brave.com)
-- Email - ProtonMail
+- Search Engine - [DuckDuckGo](https://duckduckgo.com/), [Brave](https://search.brave.com)
+- Email - [ProtonMail](https://proton.me/mail)
 
+#### Sure Mobile Operating Systems
 
 ### Level 10.  Go live in a cabin in the woods
 

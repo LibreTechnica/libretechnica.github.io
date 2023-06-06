@@ -35,7 +35,7 @@ Another consideration is using services with open datasets.  Google Maps owns al
 
 Check out these Resources for lists upon lists of FOSS alternitives!
 
-*Security bonus* - use privacy tools like Signal.
+*Security bonus* - use privacy tools like [Signal](https://signal.org/).
 
 --------------------
 ### Level 2. Install Linux on your desktop or laptop
@@ -44,9 +44,9 @@ At the core of our daily computing experience is the operating system.  You're m
 
 There are many kinds of Linux to choose from, but don't let that scare you!  If you're complete new to using Linux, you can always try many distros in a virtual machine or on a live USB stick.  Here are some of the most common distros.
 
-- Ubuntu
-- Mint
-- Manjaro
+- [Ubuntu](https://ubuntu.com/)
+- [LInux Mint](https://linuxmint.com/)
+- [Manjaro](https://manjaro.org/)
 
 Check out these Resources for more information on making the switch!
 
@@ -64,7 +64,7 @@ Welcome to the Fediverse!  Not to be confused with the overhyped Metaverse, the 
 
 Software-as-a-Service (SaaS) has added immense convenience to our lives.  Webmail has replaced the email client, cloud storage has replaced local backups, and even whole office suites are available on the web.  Many of these services require you to pay a subscription fee and let them have full access to your data, or you just host the services yoursel instead!  All you need is a home server or you can run a personal server instance on a cloud provider.  
 
-One great starting point is NextCloud which can replace all of these services.
+One great starting point is [Nextcloud](https://nextcloud.com/) which can replace all of these services.
 - Cloud storage (Google Drive, Microsoft OneDrive, Dropbox)
 - Calendar (Google Calendar)
 - Contacts

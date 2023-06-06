@@ -73,7 +73,7 @@ Check out these Resources for more information on self-hosting!
 --------------------
 ### Level 5. Use open-source hardware
 
-It's hard to believe that, with how complicated our electronic devices are these days, there are products that have completely open design and licenses.  One such item is a set headphones, oh which there are several projects you can create (check out [Ploopy](https://ploopy.co/headphones/) and [Homebrew Headphones](https://homebrewheadphones.com)).
+It's hard to believe that, with how complicated our electronic devices are these days, there are products that have completely open design and licenses.  One such item is a set headphones, of which there are several projects you can create (check out [Ploopy](https://ploopy.co/headphones/) and [Homebrew Headphones](https://homebrewheadphones.com)).
 
 If getting deep into circuit-level topics doesn't scare you one bit, then check out other projects at [https://en.wikipedia.org/wiki/List_of_open-source_hardware_projects](https://en.wikipedia.org/wiki/List_of_open-source_hardware_projects).
 

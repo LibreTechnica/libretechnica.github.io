@@ -12,7 +12,7 @@ weight: 130
 images: []
 ---
 
-Digital Privacy is should be more important now than ever before.  Countless concessions of our personal data in exchange for convenient online services have eroded our awareness of what others know about you.  By taking this challenge, you can significantly reduce the amount of information that is collected about you and your online activites.
+Digital Privacy is more important now than ever before.  Countless concessions of our personal data in exchange for convenient online services have eroded our awareness of what others know about you.  By taking this challenge, you can significantly reduce the amount of information that is collected about you and your online activites.
 
 --------------------
 ### Level 1. Use secure messaging apps
@@ -41,7 +41,7 @@ Use services that do not monetize your private data.  A great resource for this 
 - Search Engine - [DuckDuckGo](https://duckduckgo.com/), [Brave](https://search.brave.com)
 - Email - [ProtonMail](https://proton.me/mail)
 
-#### Sure Mobile Operating Systems
+#### Secure Mobile Operating Systems
 
 ### Level 10.  Go live in a cabin in the woods
 

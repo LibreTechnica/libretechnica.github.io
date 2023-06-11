@@ -8,7 +8,7 @@ draft: false
 menu:
   docs:
     parent: "organizations"
-weight: 210
+weight: 220
 images: []
 ---
 This page is meant to help you build out your business infrastructure or SOHO (small office, home office) network from FOSS software and services.

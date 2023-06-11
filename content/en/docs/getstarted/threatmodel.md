@@ -8,7 +8,7 @@ draft: false
 menu:
   docs:
     parent: "getstarted"
-weight: 220
+weight: 20
 images: []
 ---
 LibreTechnica broadly responds to the advents of surveillance capitalism, hyper-consumerism, and other encroachements on our digital rights.  These threats are grouped into five domains- one or two of which may be most important to you. 

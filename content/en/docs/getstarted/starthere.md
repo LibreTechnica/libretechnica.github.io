@@ -8,7 +8,7 @@ draft: false
 menu:
   docs:
     parent: "getstarted"
-weight: 210
+weight: 10
 images: []
 ---
 

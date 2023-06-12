@@ -15,9 +15,16 @@ images: []
 Digital Privacy is more important now than ever before.  Countless concessions of our personal data in exchange for convenient online services have eroded our awareness of what others know about you.  By taking this challenge, you can significantly reduce the amount of information that is collected about you and your online activites.
 
 --------------------
-### Level 1. Use secure messaging apps
+### Level 1. Switch to a secure messaging app
 
-Signal writeup
+Most of us don't give a second though to what we use to message our friends and family.  "They all use WhatsApp/iMessage/Facebook Messenger, so I should, too.  Right?"  The sheer gravtiy of those afformentioned services' user bases is often large enough to overcome any reservations to installing them.  
+
+But consider this... you will never know how those messaging apps work, nor _can_ you ever know.  That's because those apps are completely closed-source.  Are their apps sending personal data to their servers outside of your conversations?  Like perhaps your precice location, advertizing data, and browsing history?  This [article](https://www.forbes.com/sites/zakdoffman/2021/01/16/stop-using-facebook-messenger-after-whatsapp-vs-apple-imessage-and-signal-privacy-backlash/) from Forbes answers those questions with all the scary details.
+
+While you may have heard that some of these apps use end-to-end encryption (E2EE) on their conversations (meaning that only you and the recipient are able to see the contents of your messages), it's simply not worth using them even for their extraneous data collection alone.  For this reason and many others, it's highly recommended to switch to an open-source, E2EE messaging apps like [Signal](https://signal.org/).
+
+Signal let's you send messages, make audio and video calls, and even set disappearing messages.  On top of that, the app is developed by the non-profit Signal Foundation which doesn't have an incentive to sell any of your data.  All while being open-source so you can verify everything we just said. Check out some great content about Signal including a Signal Configuration and Hardening Guide from [PrivacyGuides.org](https://www.privacyguides.org/en/real-time-communication/#signal).
+
 
 ### Level 2. Block Ads and Trackers
 

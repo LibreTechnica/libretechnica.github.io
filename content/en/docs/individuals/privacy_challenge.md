@@ -25,7 +25,7 @@ While you may have heard that some of these apps use end-to-end encryption (E2EE
 
 Signal let's you send messages, make audio and video calls, and even set disappearing messages.  On top of that, the app is developed by the non-profit Signal Foundation which doesn't have an incentive to sell any of your data.  All while being open-source so you can verify everything we just said. Check out some great content about Signal including a Signal Configuration and Hardening Guide from [PrivacyGuides.org](https://www.privacyguides.org/en/real-time-communication/#signal).
 
-
+--------------------
 ### Level 2. Block Ads and Trackers
 
 DNS (Domain Name System) is like the phonebook of the internet.  When you type in www.askjeeves.com into your browser and hit enter, it doesn't where on the Internet that server is (its IP address).  So your computer calls out to a DNS server and says "Hey, DNS server, what's the IP address for askjeeves.com?", and the DNS server replies with "askjeeves.com is located at 146.75.38.114".  Then your browser connects to 146.75.38.114 and you search away!
@@ -36,11 +36,13 @@ Not only that, but trackers and malware are constantly making requests behind yo
 
 Privacy Guide has some great insights on how to use an encrypted DNS filter like AdGuard or NextDNS (see [https://www.privacyguides.org/dns/](https://www.privacyguides.org/dns/)).  To go fully self-hosted, you can set up your own ad blocker called [Pi-Hole](https://pi-hole.net/).
 
-
+--------------------
 ### Level 3. Use a Virtual Private Network (VPN)
 
+--------------------
 ### Level 4. Delete Facebook and Twitter
 
+--------------------
 ### Level 5. De-Google your life!  
 
 Use services that do not monetize your private data.  A great resource for this is [PrivacyGuides.org](https://www.privacyguides.org/tools/).  Their recommendations are a great way to ween yourself out of the world of online trackers.  Here are some good alternatives to start with.
@@ -50,12 +52,13 @@ Use services that do not monetize your private data.  A great resource for this 
 
 #### Secure Mobile Operating Systems
 
+--------------------
 ### Level 10.  Go live in a cabin in the woods
 
 
 
 
-
+--------------------
 # Resources
 
 ## Education

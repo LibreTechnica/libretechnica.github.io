@@ -28,11 +28,9 @@ Signal let's you send messages, make audio and video calls, and even set disappe
 --------------------
 ### Level 2. Block Ads and Trackers
 
-DNS (Domain Name System) is like the phonebook of the internet.  When you type in www.askjeeves.com into your browser and hit enter, it doesn't where on the Internet that server is (its IP address).  So your computer calls out to a DNS server and says "Hey, DNS server, what's the IP address for askjeeves.com?", and the DNS server replies with "askjeeves.com is located at 146.75.38.114".  Then your browser connects to 146.75.38.114 and you search away!
+When you type in www.askjeeves.com into your address bar and hit enter, your browser doesn't know where on the Internet to find that server is (its IP address).  So your computer calls out to a DNS (Domain Name System) server, which is like the phonebook of the internet.  Your computer says "Hey, DNS server, what's the IP address for askjeeves.com?", and the DNS server replies with "askjeeves.com is located at 146.75.38.114".  Then your browser connects to 146.75.38.114 and you search away!
 
-Generally, your DNS requests are handled by your Internet Service Provider.  While ISP's can't see what you're doing *at* the websites you visit, they still know and likely log what sites you visit. 
-
-Not only that, but trackers and malware are constantly making requests behind your back!  You can hinder all this by using an encrypted DNS service or by putting your very own ad blocker on your network.  
+Generally, your DNS requests are handled by your Internet Service Provider.  While ISP's can't see what you're doing *at* the websites you visit, they still know and likely log what sites you visit.  Not only that, but trackers and malware are constantly making requests behind your back!  You can hinder all this by using an encrypted DNS service or by putting your very own ad blocker on your network.  
 
 Privacy Guide has some great insights on how to use an encrypted DNS filter like AdGuard or NextDNS (see [https://www.privacyguides.org/dns/](https://www.privacyguides.org/dns/)).  To go fully self-hosted, you can set up your own ad blocker called [Pi-Hole](https://pi-hole.net/).
 

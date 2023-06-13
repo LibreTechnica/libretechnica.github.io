@@ -27,3 +27,4 @@ images: []
 ## License and Attribution
 
 LibreTechnica content is licensed under the [Creative Commons Attribution-ShareAlike 3.0 Unported](LICENSE) license.
+.

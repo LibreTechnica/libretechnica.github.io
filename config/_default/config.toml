@@ -1,4 +1,4 @@
-baseurl = "https://libretechnica.org/"
+baseurl = "https://www.libretechnica.org/"
 canonifyURLs = false
 disableAliases = true
 disableHugoGeneratorInject = true

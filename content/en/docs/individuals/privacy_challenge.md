@@ -37,6 +37,12 @@ Privacy Guide has some great insights on how to use an encrypted DNS filter like
 --------------------
 ### Level 3. Use a Virtual Private Network (VPN)
 
+A virtual private network (VPN) is a very useful tool in the fight for data privacy.  To oversimplify, a VPN is like a special tunnel between your computer (or phone) and another computer located elsewhere.  That other computer has access to the internet, so you can sort of "teleport" your internet communications from where you are to where you would like to be.  Here are some examples of common uses:
+
+- You can make your computer appear that it's in the U.K. so you can watch TV shows only available on British streaming services.  
+- If you're using a Wi-Fi network that you don't control, like at a coffee shop or at McDonald's, a VPN will secure your internet traffic from others on the Wi-Fi network and the network operator.\
+- While the above examples secure your traffic out to the internet, you can also make a VPN tunnel into your home network as well.  This can allow you to safely access resources on home network like a file server or movie library.
+
 --------------------
 ### Level 4. Delete Facebook and Twitter
 

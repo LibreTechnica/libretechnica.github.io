@@ -117,7 +117,7 @@
   url = "https://twitter.com/LibreTechnica"
   weight = 20
 
-# [[footer]]
-#   name = "Privacy"
-#   url = "/privacy-policy/"
-#   weight = 10
+[[footer]]
+  name = "Privacy"
+  url = "/privacy-policy/"
+  weight = 10

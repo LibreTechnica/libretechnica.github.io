@@ -55,12 +55,19 @@ While much of the past and present data that social media companies have on you 
 --------------------
 ### Level 5. De-Google your life!  
 
-Use services that do not monetize your private data.  A great resource for this is [PrivacyGuides.org](https://www.privacyguides.org/tools/).  Their recommendations are a great way to ween yourself out of the world of online trackers.  Here are some good alternatives to start with.
+This one is even more difficult than deleting social media.  Google had such deep penetration into our lives, that living without Google is tantamount to living in a cave.  It doesn't help that some of their products actually pretty good only by virtue of their massive surviellance aparatus.  (Google Maps can only tell you traffic is gridlocked on your route to work becuase they have a GPS-enable tracking beacons in most of the cars- smartphones!)  
+
+But all is not lost when you remove Google from your life.  When more users adopt alternative products and services, they weaken Google's power over the mass market.  They make those alternatives better.  They shift market power to more ethical businesses that actually respect your privacy.  
+
+So let's get started.  A great resource for de-Googling your life is [PrivacyGuides.org](https://www.privacyguides.org/tools/).  They list multiple privacy-respecting recommendations for nearly all aspects of our digital lives.  Here are some good alternatives to start with.
 
 - Search Engine - [DuckDuckGo](https://duckduckgo.com/), [Brave](https://search.brave.com)
-- Email - [ProtonMail](https://proton.me/mail)
+- Email - [ProtonMail](https://proton.me/mail), [Tutanota](https://tutanota.com)
+- Web Browser - [Firefox](https://firefox.com/), [Brave Browser](https://brave.com/)
 
 #### Secure Mobile Operating Systems
+
+
 
 --------------------
 ### Level 10.  Go live in a cabin in the woods

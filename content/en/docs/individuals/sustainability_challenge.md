@@ -37,6 +37,8 @@ If you don't know where to begin with 3D printing, there are numerous websites, 
 - [3D Printing for Beginners: How to Get Started with FDM](https://all3dp.com/2/3d-printing-for-beginners-all-you-need-to-know-to-get-started/)
 - For 3D models, check out: [Thingiverse](https://www.thingiverse.com/), [Printables](https://www.printables.com/), [Cults3D](https://cults3d.com/)
 
+*FOSS Bonus* - Share your designs with others on 3D model websites and become a [_prosumer_](https://www.futuresplatform.com/blog/whats-prosumer-and-are-you-one).
+
 --------------------
 ### Level 4. 
 

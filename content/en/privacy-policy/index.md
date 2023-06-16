@@ -24,6 +24,6 @@ Nothing.
 
 ## Contact us
 
-[Contact us]({{< ref "contact/index.md" >}}) if you have any questions.
+Contact us if you have any questions.
 
 Effective Date: _It's always been this way_

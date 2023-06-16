@@ -67,14 +67,14 @@ So let's get started.  A great resource for de-Googling your life is [PrivacyGui
 
 #### Secure Mobile Operating Systems
 
+Wanna get Google out of your Android phone?  These de-Googled operating systems are based on the Android Open Source Project (AOSP) and feature tons tweaks and security enhancements.  The ironic thing is that they generally only work on Google Pixel phones since they're the only devices that allow you to put a custom OS on them.
+
+- [GrapheneOS](https://grapheneos.org/)
+- [CalyxOS](https://calyxos.org/)
 
 
 --------------------
 ### Level 10.  Go live in a cabin in the woods
-
-
-
-
 --------------------
 # Resources
 
@@ -124,12 +124,5 @@ So let's get started.  A great resource for de-Googling your life is [PrivacyGui
 - [Switching.Software](https://switching.software) - List of privacy-conscious alternatives to well-known software.
 
 - [(Cryptoparty) Tools](https://www.cryptoparty.in/learn/tools) - a curated list of tools to improve your security, privacy, and anonymity.
-
-## Notable Software
-
-- [Signal](https://signal.org/) - An open-source and end-to-end encrypted messaging app.
-
-- [Tor Web Browswer](https://www.torproject.org) - Perhaps the most well-known and used browser that anonymizes users on the web.
-
 
 --------------------

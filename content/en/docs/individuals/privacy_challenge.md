@@ -40,11 +40,17 @@ Privacy Guide has some great insights on how to use an encrypted DNS filter like
 A virtual private network (VPN) is a very useful tool in the fight for data privacy.  To oversimplify, a VPN is like a special tunnel between your computer (or phone) and another computer located elsewhere.  That other computer has access to the internet, so you can sort of "teleport" your internet communications from where you are to where you would like to be.  Here are some examples of common uses:
 
 - You can make your computer appear that it's in the U.K. so you can watch TV shows only available on British streaming services.  
-- If you're using a Wi-Fi network that you don't control, like at a coffee shop or at McDonald's, a VPN will secure your internet traffic from others on the Wi-Fi network and the network operator.\
+- If you're using a Wi-Fi network that you don't control, like at a coffee shop or at McDonald's, a VPN will secure your internet traffic from others on the Wi-Fi network and the network operator.
 - While the above examples secure your traffic out to the internet, you can also make a VPN tunnel into your home network as well.  This can allow you to safely access resources on home network like a file server or movie library.
 
 --------------------
 ### Level 4. Delete Facebook and Twitter
+
+Social media companies are known for some of the worst abuses of digital privacy.  With their vast stores of data points on their members, they use this information to target you with advertisements, addictive triggers, and rage-bait for the sake of profit.  It's important to remember that if a service is free, then YOU are the product.
+
+Privacy is the ability to control the information about yourself.  Social media works tirelessly to dispossess you of that ability, even if don't have an account with them. Their wide network of trackers feed your deeply personal attributes and behaviors into their data centers so that they can nudge you into acting in the interests of their advertisers and, in some cases, influence your political and electoral activities.
+
+While much of the past and present data that social media companies have on you may be retained forever, deleting your accounts will help diminish their power and control in your life; and will reclaim the right to your own future. 
 
 --------------------
 ### Level 5. De-Google your life!  

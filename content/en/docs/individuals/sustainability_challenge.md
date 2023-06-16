@@ -14,30 +14,34 @@ images: []
 
 This challenge is for the makers and the environmentally conscious.  
 
+
 --------------------
-### Reuse or donate old hardware
+### Level 1. Reuse or donate old hardware
 
 We can prevent tons of electronic waste from going into landfills by repurposing or down-cycling our old tech.  Older computers that are sluggish with Windows tend to perform like new with Linux installed on them.
 
+--------------------
+### Level 2. Join a community makerspace
+
+--------------------
+### Level 3. 3D print stuff
+
+--------------------
+### Level 4. 
+
+--------------------
+### Level 5. Learn to repair broken electronics
 
 
+--------------------
 
 
-
-### 3D print stuff
-
-### Join a community makerspace
-
-### Learn to repair broken electronics
 
 
 
 ### Recognize the elephant in the cryptocurrency room
 
 Bitcoin CO2 emissions.  
-
-
-
 
 
 

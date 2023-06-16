@@ -35,7 +35,7 @@ Another consideration is using services with open datasets.  Google Maps owns al
 
 Check out these Resources for lists upon lists of FOSS alternitives!
 
-*Security Bonus* - use privacy tools like [Signal](https://signal.org/).
+*Privacy Bonus* - use privacy tools like [Signal](https://signal.org/).
 
 --------------------
 ### Level 2. Install Linux on your desktop or laptop

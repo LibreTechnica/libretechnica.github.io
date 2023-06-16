@@ -57,7 +57,7 @@
   name = "Organizations"
   weight = 21
   identifier = "organizations"
-  url = "/docs/organizations/"
+  url = "/docs/organizations/resources/"
   parent = "getstarted"
 
 [[main]]

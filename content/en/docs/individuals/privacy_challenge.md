@@ -72,7 +72,7 @@ Wanna get Google out of your Android phone?  These de-Googled operating systems 
 - [GrapheneOS](https://grapheneos.org/)
 - [CalyxOS](https://calyxos.org/)
 
-FOSS Bonus - Only use free and open-source apps on your phone.  You can get them through [F-droid](https://f-droid.org/) or the [Neo-Store](https://github.com/NeoApplications/Neo-Store).
+*FOSS Bonus* - Only use free and open-source apps on your phone.  You can get them through [F-droid](https://f-droid.org/) or the [Neo-Store](https://github.com/NeoApplications/Neo-Store).
 
 --------------------
 ### Level 10.  Go live in a cabin in the woods

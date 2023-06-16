@@ -50,7 +50,7 @@
   name = "Individuals"
   weight = 20
   identifier = "individuals"
-  url = "/docs/individuals/"
+  url = "/docs/individuals/whatcanido/"
   parent = "getstarted"
 
 [[main]]

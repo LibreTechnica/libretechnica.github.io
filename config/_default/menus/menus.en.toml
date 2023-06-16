@@ -43,8 +43,30 @@
 [[main]]
   name = "Get Started"
   url = "/docs/getstarted/starthere/"
-# url = "/docs/1.0/prologue/introduction/"
+  identifier = "getstarted"
   weight = 10
+
+[[main]]
+  name = "Individuals"
+  weight = 20
+  identifier = "individuals"
+  url = "/docs/individuals/"
+  parent = "getstarted"
+
+[[main]]
+  name = "Organizations"
+  weight = 21
+  identifier = "organizations"
+  url = "/docs/organizations/"
+  parent = "getstarted"
+
+[[main]]
+  name = "Communities"
+  weight = 22
+  identifier = "communities"
+  url = "/docs/communities/"
+  parent = "getstarted"
+
 
 # [[main]]
 #   name = "Tutorial"
@@ -75,6 +97,12 @@
   identifier = "contribute"
   url = "/about/contribute/"
   parent = "about"
+
+  [[main]]
+  name = "Private Search"
+  weight = 90
+  identifier = "search"
+  url = "https://search.libretechnica.org/"
 
 [[social]]
   name = "GitHub"

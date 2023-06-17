@@ -57,14 +57,14 @@
   name = "Organizations"
   weight = 21
   identifier = "organizations"
-  url = "/docs/organizations/resources/"
+  url = "/docs/organizations/orgresources/"
   parent = "getstarted"
 
 [[main]]
   name = "Communities"
   weight = 22
   identifier = "communities"
-  url = "/docs/communities/"
+  url = "/docs/communities/communityresources/"
   parent = "getstarted"
 
 

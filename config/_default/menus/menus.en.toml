@@ -48,7 +48,7 @@
 
 [[main]]
   name = "Start Here"
-  weight = 20
+  weight = 15
   identifier = "starthere"
   url = "/docs/getstarted/starthere/"
   parent = "getstarted"

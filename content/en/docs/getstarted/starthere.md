@@ -20,11 +20,11 @@ There are numerous ways you can liberate your technology.  But you may not want 
 ### For Individuals
 As a single, indivisble unit of humanity, you can make small changes over time that will give you back contorl over your digital life.  But it would be quite daunting to change your entire life's technology to socially-conscious alternatives.  That's why we've divided those measures into three challenges that appeal to different concerns that people might relate to most.
 
-The [FOSS Challenge](https://www.libretechnica.org/docs/individuals/foss_challenge/) helps you switch to free and open software that you can trust.
+- The [FOSS Challenge](https://www.libretechnica.org/docs/individuals/foss_challenge/) helps you switch to free and open software that you can trust.
 
-Take the [Privacy Challenge](https://www.libretechnica.org/docs/individuals/privacy_challenge/) if you want to protect your personal and private information from corporate and government surviellance.
+- Take the [Privacy Challenge](https://www.libretechnica.org/docs/individuals/privacy_challenge/) if you want to protect your personal and private information from corporate and government surviellance.
 
-The [Sustainability Challenge](https://www.libretechnica.org/docs/individuals/sustainability_challenge/) puts your tech in an environmental prespective and helps eliminate e-waste.
+- The [Sustainability Challenge](https://www.libretechnica.org/docs/individuals/sustainability_challenge/) puts your tech in an environmental prespective and helps eliminate e-waste.
 
 ### For Organizations and Families
 

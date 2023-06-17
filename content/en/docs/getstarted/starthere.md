@@ -33,3 +33,8 @@ Whether your're trying to get your artisan soap-making business off the ground o
 ### For Communities
 
 Better communities make better societies.  These [community resources](https://www.libretechnica.org/docs/communities/communityresources/) will help make your neighborhods more vibrant and resilient through the power of shared collaboration.  We didn't forget about online communities either, the page on [federated services](https://www.libretechnica.org/docs/communities/fediverse/) will show you decentralized social networks independent of corporate influence.
+
+--------------------
+## What we're up against
+
+Read on to learn about the various [threats](https://www.libretechnica.org/docs/getstarted/threatmodel/) to our digital freedom, broken down into five domains.  Thank you for visiting LibreTechnica and we're happy to be a part of your journey to liberate your technology!

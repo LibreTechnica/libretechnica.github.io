@@ -11,18 +11,19 @@ menu:
 weight: 310
 images: []
 ---
+
+
+
 # Resources for Communities
 
 
 
-
-
-
+--------------------
 ## Makerspaces
 
 (Article) [Starting a Makerspace? Your Beginner’s Guide](https://smithsystem.com/smithfiles/starting-a-makerspace-beginners-guide/)
 
-
+--------------------
 ## Connectivity
 
 ### Community/Mesh Networks
@@ -36,6 +37,7 @@ images: []
 
 ### Amateur Radio
 
+--------------------
 ## Getting Involved
 
 ### Technology Advocacy Groups

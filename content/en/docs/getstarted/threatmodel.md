@@ -17,7 +17,7 @@ LibreTechnica broadly responds to the advents of surveillance capitalism, hyper-
 
 # Threat categories
 
-## Commercial
+## 1. Commercial
 
 Keywords
  - Ad-trackers
@@ -64,7 +64,7 @@ Examples
 
 --------------------
 
-## Governmental
+## 2. Governmental
 
 Keywords
  - Law Enforcement
@@ -84,7 +84,8 @@ Law enforcement officers often violate civil liberties
 
 --------------------
 
-## Political
+## 3. Political
+
 Keywords
  - Net Neutrality
  - Data-protection policies
@@ -102,7 +103,7 @@ Examples
 
 --------------------
 
-## Social
+## 4. Social
 
 Key Words
  - mental health
@@ -126,7 +127,7 @@ Hyper-polarized engagements lead to more ad impressions
 
 --------------------
 
-## Environmental
+## 5. Environmental
 
 Keywords
  - e-waste

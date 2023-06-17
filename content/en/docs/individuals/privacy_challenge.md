@@ -120,6 +120,8 @@ Wanna get Google out of your Android phone?  These de-Googled operating systems 
 
 - [Privacy Guide](https://www.privacyguides.org) - "Privacy Guides is your central privacy and security resource to protect yourself online." Privacy Guide was formerly [privacytools.io](https://www.privacytools.io/).  [r/PrivacyGuides/ on Reddit](https://www.reddit.com/r/PrivacyGuides/) is also a good resource.
 
+- [Awesome Privacy](https://github.com/pluja/awesome-privacy) - A "list of free, open source and privacy respecting services and alternatives to privative services."
+
 - [PRISM Break](https://prism-break.org/) - Tools to help you "Opt out of global data surveillance programs like PRISM, XKeyscore and Tempora."
 
 - [Switching.Software](https://switching.software) - List of privacy-conscious alternatives to well-known software.

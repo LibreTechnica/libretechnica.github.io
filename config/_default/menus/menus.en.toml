@@ -47,6 +47,13 @@
   weight = 10
 
 [[main]]
+  name = "Start Here"
+  weight = 20
+  identifier = "starthere"
+  url = "/docs/getstarted/starthere/"
+  parent = "getstarted"
+
+[[main]]
   name = "Individuals"
   weight = 20
   identifier = "individuals"

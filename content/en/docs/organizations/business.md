@@ -27,6 +27,3 @@ images: []
 
 [Start.coop](https://www.start.coop) - A resource for startomg cooperative-based businesses.
 
-
-More stuff to come...
-VSCode test.

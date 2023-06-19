@@ -43,6 +43,7 @@ It's for those reasons that we encourage their adoption over platforms like Twit
 - YouTube -> [PeerTube](https://joinpeertube.org/)
 - Instagram -> [PixelFed](https://pixelfed.org/)
 - Spotify -> [Funkwhale](https://funkwhale.audio/)
+- Reddit -> [Lemmy](https://join-lemmy.org), [kbin](https://kbin.pub/)
 - Facebook -> [Friendica](https://friendi.ca), [Diaspora](https://joindiaspora.com)
 - Google Drive -> [Storj](https://www.storj.io)
 

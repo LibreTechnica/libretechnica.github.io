@@ -5,15 +5,21 @@ lead: "Come join LibreTechnica in the Fediverse at our very own Lemmy instance. 
 date: 2023-07-10T00:00:00+01:00
 lastmod: 2023-07-10T16:00:00+01:00
 draft: false
-weight: 50
+weight: 40
 images: ["480px-Lemmy_Logo.svg.png"]
 contributors: ["LibreTechnica"]
 ---
 ![Image](480px-Lemmy_Logo.svg.png "Lemmy Logo")
 
-## Reddit situation
+## The Reddit APIcalypse
+
+In April of 2023, Reddit announced many changes to their API access policies and pricing.  Many of these changes hurt third-party app developers who had to shut down their apps or pay exuberant API fees.  A backlash ensued, moderators protested with blackout, and the Reddit's CEO, , doubled down on their changes.  Here's a good article summarizing it all: [Why everyone is freaking out about the Reddit API and blackout right now](https://www.digitaltrends.com/computing/reddit-api-changes-explained/).
 
 ## What is Lemmy
+
+[Lemmy](https://join-lemmy.org/) is to Reddit what [Mastodon](https://joinmastodon.org/) is to Twitter.  As a federated service, you are free to sign up at one instance and view content and updates from another.  The Reddit APIcalypse, as it's become known as, has caused a massive wave of early adopters to the Lemmy platform, similar to when Elon Musk's changes to Twitter cause many users to move to Mastodon.  
+
+The [History of Lemmy](https://join-lemmy.org/docs/users/07-history-of-lemmy.html) shows that Lemmy shares many of the same genes as LibreTechnica, so it was almost inevitable that the two philosophy and the platform would meet. So with that, the domain [libretechni.ca](libretechni.ca) was purchased and pointed to a brand new fresh Lemmy server!  This is so fresh, the server was up the Friday night before this blog post.
 
 ## Getting Started and basic how-to
 
@@ -29,7 +35,7 @@ Sub-reddits are called **Communities** in Lemmy.  When you click on "Explore Com
 
 As you go about looking for Communities to subscribe to, I reccomend checking out some of the larger instances, searching for communities on there, and then subscribing from your home instance.  A great starting page is the GitHub Page, [Awesome Lemmy Instances](https://github.com/maltfield/awesome-lemmy-instances).  Here's a little rundown on how to find, say, a Community for cooking.
 
-1.  Go to [Awesome Lemmy Instances](https://github.com/maltfield/awesome-lemmy-instances).  [Lemmy.world](https://lemmy.world/) has a lot of users, to go there and click on "Explore Communities".
+1.  Go to [Awesome Lemmy Instances](https://github.com/maltfield/awesome-lemmy-instances).  The instance [Lemmy.world](https://lemmy.world/) has a lot of users, to go there and click on "Explore Communities".
 2.  Search for "cooking".  Check out some of the Communities and see which one(s) you like.  The subscriber count there indicates how many subscribers the community has _from the local instance_. That's why those numbers don't match when you view the community from its home instance.
 3.  Copy the link.  Note: these links are all views from the current instance.  So if you like "Science of Cooking@mander.xyz" community, the link on the search page will take you to **https://lemmy.world/c/cooking@mander.xyz**.
 4.  Go back to your home instance and go to "Explore Communities".  Paste the copied URL in the search box, but take out the first part of the URL "https://lemmy.world/c/" and leave in "cooking@mander.xyz". Add an exclamation point to the beginning so it looks like "!cooking@mander.xyz".  Click "Search" and the Community will appear.

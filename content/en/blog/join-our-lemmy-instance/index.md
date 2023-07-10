@@ -9,7 +9,7 @@ weight: 50
 images: ["480px-Lemmy_Logo.svg.png"]
 contributors: ["LibreTechnica"]
 ---
-<center>![Image](480px-Lemmy_Logo.svg.png "Lemmy Logo")</center>
+![Image](480px-Lemmy_Logo.svg.png "Lemmy Logo")
 
 ## Reddit situation
 

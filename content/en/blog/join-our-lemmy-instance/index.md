@@ -1,7 +1,7 @@
 ---
 title: "Join our Lemmy instance"
-description: "We now have Lemmy instance at https://libretechni.ca. Explore the federated Reddit alternative and find a your communities."
-lead: "We now have Lemmy instance at https://libretechni.ca. Explore the federated Reddit alternative and find a your communities. Lead."
+description: "Come join LibreTechnica in the Fediverse at our very own Lemmy insance.  There you can explore hundreds of communities on the decentralized alternative to Reddit."
+lead: "Come join LibreTechnica in the Fediverse at our very own Lemmy insance.  There you can explore hundreds of communities on the decentralized alternative to Reddit."
 date: 2023-07-10T00:00:00+01:00
 lastmod: 2023-07-10T00:00:00+01:00
 draft: false
@@ -10,7 +10,9 @@ images: ["480px-Lemmy_Logo.svg.png"]
 contributors: ["LibreTechnica"]
 ---
 
-Notes:
+![Image](480px-Lemmy_Logo.svg.png "Lemmy Logo")
+
+
 ## Reddit situation
 
 ## What is Lemmy

@@ -1,7 +1,7 @@
 ---
 title: "Join our Lemmy instance"
 description: "Come join LibreTechnica in the Fediverse at our very own Lemmy instance.  There you can explore hundreds of communities on the decentralized alternative to Reddit."
-lead: "Come join LibreTechnica in the Fediverse at our very own Lemmy instance - [LibreTechni.ca](https://libretechni.ca).  There you can explore hundreds of communities on the decentralized alternative to Reddit."
+lead: "Come join LibreTechnica in the Fediverse at our very own Lemmy instance.  There you can explore hundreds of communities on the decentralized alternative to Reddit."
 date: 2023-07-10T00:00:00+01:00
 lastmod: 2023-07-10T16:00:00+01:00
 draft: false
@@ -10,6 +10,8 @@ images: ["480px-Lemmy_Logo.svg.png"]
 contributors: ["LibreTechnica"]
 ---
 ![Image](480px-Lemmy_Logo.svg.png "Lemmy Logo")
+
+# Background
 
 ## The Reddit APIcalypse
 
@@ -21,7 +23,7 @@ In April of 2023, Reddit announced many changes to their API access policies and
 
 The [History of Lemmy](https://join-lemmy.org/docs/users/07-history-of-lemmy.html) shows that Lemmy shares many of the same genes as LibreTechnica, so it was almost inevitable that the two philosophy and the platform would meet. So with that, the domain [libretechni.ca](libretechni.ca) was purchased and pointed to a brand new fresh Lemmy server!  This is so fresh, the server was up the Friday night before this blog post.
 
-### How does it compare to Reddit?
+## How does it compare to Reddit?
 
 A Lemmy site looks and feels just like Reddit, but without ads or exclusive premium accounts.  Link aggregation and conversation trees a the main focus and there's not much more to that.  Everything should feel intuitive if you're coming from Reddit.  The project is still relatively new, but it does its basic functions pretty well.  Here are a few more selected features ripped from [project website](https://join-lemmy.org):
 
@@ -34,13 +36,13 @@ A Lemmy site looks and feels just like Reddit, but without ads or exclusive prem
 - Notifications, including via email.
 - NSFW post / community support.
 
-## Getting Started
+# Getting Started
 
-### Using Lemmy
+## Using Lemmy
 
 [LibreTechni.ca](https://libretechni.ca) was created to let you experiment with federated services, so feel free to join and start exploring!
 
-### Finding communities
+## Finding communities
 
 Sub-reddits are called **Communities** in Lemmy.  When you click on "Explore Communities" on a Lemmy instance, you will see three tabs.
 
@@ -48,7 +50,7 @@ Sub-reddits are called **Communities** in Lemmy.  When you click on "Explore Com
 - Local - These communitites are local to the instance you're viewing. Or, if you're using a mobile app, the instance that you're logged onto.
 - All - Here are communities across multiple instances.  However, a community will only show up on this list once a user searches for it for the first time.  For example, searching for "privacy" on the https://libretechni.ca instance only shows a few communities on that topic (as of the date of this post).  But searching for "privacy" on https://lemmy.world shows a wealth of commuhities across numerous instances.  Over time, this list of will grow as subscribers who seek out and subscribe to more communities make their home instance "aware" of them.
 
-### Subscribing
+## Subscribing
 
 As you go about looking for Communities to subscribe to, I reccomend checking out some of the larger instances, searching for communities on there, and then subscribing from your home instance.  A great starting page is the GitHub Page, [Awesome Lemmy Instances](https://github.com/maltfield/awesome-lemmy-instances).  Here's a little rundown on how to find, say, a Community for cooking.
 

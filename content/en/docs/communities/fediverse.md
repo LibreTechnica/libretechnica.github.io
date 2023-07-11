@@ -26,7 +26,7 @@ It's for those reasons that we encourage their adoption over platforms like Twit
 
 
 
-### Resources about Decentralized/Federated Services
+## Resources about Decentralized/Federated Services
 
 - Article [What Is the Fediverse and Can It Decentralize the Web?](https://www.makeuseof.com/what-is-the-fediverse-and-can-it-decentralize-the-web/)
 
@@ -37,7 +37,7 @@ It's for those reasons that we encourage their adoption over platforms like Twit
 - [Fediverse Party](https://fediverse.party) - A small list of federates services
 
 
-### Notable Decentralized Alternatives
+## Notable Decentralized Alternatives
 
 - Twitter -> [Mastodon](https://joinmastodon.org/)
 - YouTube -> [PeerTube](https://joinpeertube.org/)
@@ -48,3 +48,7 @@ It's for those reasons that we encourage their adoption over platforms like Twit
 - Google Drive -> [Storj](https://www.storj.io)
 
 --------------------
+
+# Join LibreTechnica on Lemmy!
+
+We've started our own Lemmy insance at [LibreTechni.ca](https://libretechni.ca).  Check out the blog post [here](https://www.libretechnica.org/blog/join-our-lemmy-instance/) for how to get started.

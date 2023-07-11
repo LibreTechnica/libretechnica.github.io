@@ -1,7 +1,7 @@
 ---
 title: "Join our Lemmy instance"
 description: "Come join LibreTechnica in the Fediverse at our very own Lemmy instance.  There you can explore hundreds of communities on the decentralized alternative to Reddit."
-lead: "Come join LibreTechnica in the Fediverse at our very own Lemmy instance.  There you can explore hundreds of communities on the decentralized alternative to Reddit."
+lead: "Come join LibreTechnica in the Fediverse at our very own Lemmy instance - [LibreTechni.ca](https://libretechni.ca).  There you can explore hundreds of communities on the decentralized alternative to Reddit."
 date: 2023-07-10T00:00:00+01:00
 lastmod: 2023-07-10T16:00:00+01:00
 draft: false
@@ -21,7 +21,24 @@ In April of 2023, Reddit announced many changes to their API access policies and
 
 The [History of Lemmy](https://join-lemmy.org/docs/users/07-history-of-lemmy.html) shows that Lemmy shares many of the same genes as LibreTechnica, so it was almost inevitable that the two philosophy and the platform would meet. So with that, the domain [libretechni.ca](libretechni.ca) was purchased and pointed to a brand new fresh Lemmy server!  This is so fresh, the server was up the Friday night before this blog post.
 
-## Getting Started and basic how-to
+### How does it compare to Reddit?
+
+A Lemmy site looks and feels just like Reddit, but without ads or exclusive premium accounts.  Link aggregation and conversation trees a the main focus and there's not much more to that.  Everything should feel intuitive if you're coming from Reddit.  The project is still relatively new, but it does its basic functions pretty well.  Here are a few more selected features ripped from [project website](https://join-lemmy.org):
+
+- Self hostable, easy to deploy, via Docker, or Ansible.
+- Clean, mobile-friendly interface.
+- Mobile apps for iOS and Android.
+- User avatar support.
+- Full vote scores (+/-) like old Reddit.
+- User tagging using @, Community tagging using !.
+- Notifications, including via email.
+- NSFW post / community support.
+
+## Getting Started
+
+### Using Lemmy
+
+[LibreTechni.ca](https://libretechni.ca) was created to let you experiment with federated services, so feel free to join and start exploring!
 
 ### Finding communities
 

@@ -40,6 +40,10 @@ A Lemmy site looks and feels just like Reddit, but without ads or exclusive prem
 
 [LibreTechni.ca](https://libretechni.ca) was created to let you experiment with federated services, so feel free to join and start exploring!
 
+## Choosing a Server
+
+Two popular lists of Lemmy servers/instances are at [Awesome Lemmy Instances](https://github.com/maltfield/awesome-lemmy-instances) and [the-federation.info Lemmy Instances Page](https://the-federation.info/platform/73).  You can do join one of the larger instances that cater to a breadth of interests or you can an instance that is for attracts a certain interest, like solarpunk ([SLRPNK](https://slrpnk.net)) for example. Keep in mind that regarless whichever instance you choose to be your home instance, you'll still be able to see content from other instances becuase it's federated.  That's the whole point!  Of course, you'll can always find d home at [LibreTechni.ca](https://libretechni.ca).  
+
 ## Finding communities
 
 Sub-reddits are called **Communities** in Lemmy.  When you click on "Explore Communities" on a Lemmy instance, you will see three tabs.
@@ -50,9 +54,9 @@ Sub-reddits are called **Communities** in Lemmy.  When you click on "Explore Com
 
 ## Subscribing
 
-As you go about looking for Communities to subscribe to, I reccomend checking out some of the larger instances, searching for communities on there, and then subscribing from your home instance.  A great starting page is the GitHub Page, [Awesome Lemmy Instances](https://github.com/maltfield/awesome-lemmy-instances).  Here's a little rundown on how to find, say, a Community for cooking.
+As you go about looking for Communities to subscribe to, I recommend checking out some of the larger instances, searching for communities on there, and then subscribing from your home instance.  Start from one of the lista pages of Lemmy instances mentioned in [Choosing a Server](#choosing-a-server).  Here's a little rundown on how to find, say, a Community for cooking.
 
-1.  Go to [Awesome Lemmy Instances](https://github.com/maltfield/awesome-lemmy-instances).  The instance [Lemmy.world](https://lemmy.world/) has a lot of users, to go there and click on "Explore Communities".
+1.  Go to [Awesome Lemmy Instances](https://github.com/maltfield/awesome-lemmy-instances).  The instance [Lemmy.world](https://lemmy.world/) has a lot of users, so go there and click on "Explore Communities".
 2.  Search for "cooking".  Check out some of the Communities and see which one(s) you like.  The subscriber count there indicates how many subscribers the community has _from the local instance_. That's why those numbers don't match when you view the community from its home instance.
 3.  Copy the link.  Note: these links are all views from the current instance.  So if you like "Science of Cooking@mander.xyz" community, the link on the search page will take you to **https://lemmy.world/c/cooking@mander.xyz**.
 4.  Go back to your home instance and go to "Explore Communities".  Paste the copied URL in the search box, but take out the first part of the URL "https://lemmy.world/c/" and leave in "cooking@mander.xyz". Add an exclamation point to the beginning so it looks like "!cooking@mander.xyz".  Click "Search" and the Community will appear.

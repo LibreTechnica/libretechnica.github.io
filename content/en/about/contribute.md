@@ -17,7 +17,7 @@ images: []
 
 ## Mirrors
 
-- [github.com/LibreTechnica/libretechnica.github.io](https://github.com/LibreTechnica/libretechnica.github.io)
+- [github.com/LibreTechnica/libretechnica.github.io](https://github.com/LibreTechnica/libretechnica.github.io) - This is where this site is hosted.
 
 - [gitlab.com/LibreTechnica/libretechnica.github.io](https://gitlab.com/LibreTechnica/libretechnica-github-io)
 
@@ -27,4 +27,3 @@ images: []
 ## License and Attribution
 
 LibreTechnica content is licensed under the [Creative Commons Attribution-ShareAlike 3.0 Unported](LICENSE) license.
-.

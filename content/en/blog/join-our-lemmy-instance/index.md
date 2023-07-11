@@ -38,8 +38,6 @@ A Lemmy site looks and feels just like Reddit, but without ads or exclusive prem
 
 # Getting Started
 
-## Using Lemmy
-
 [LibreTechni.ca](https://libretechni.ca) was created to let you experiment with federated services, so feel free to join and start exploring!
 
 ## Finding communities
@@ -62,4 +60,10 @@ As you go about looking for Communities to subscribe to, I reccomend checking ou
 
 If no one else has subscribed to that Community before, the page might be blank.  But over time, the instance will add more posts and comments as they're federated to your home one.  So if you don't want to check out every Community on it's home instance, just go crazy on subscriptions and the content will steaadly come in after a day or so.
 
+## Posting
 
+Go to the Community you want to post in and post!  Just be sure you're logged into your home account.
+
+## Learn More
+
+Learn more in the [Lemmy Documentation](https://join-lemmy.org/docs/index.html) which includes information for users, admins, and contributors.

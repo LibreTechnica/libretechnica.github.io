@@ -11,6 +11,10 @@ contributors: ["LibreTechnica"]
 ---
 ![Image](480px-Lemmy_Logo.svg.png "Lemmy Logo")
 
+# TLDR
+
+Lemmy is a free-and-open-source and federated link aggregator like Reddit.  We set up a Lemmy instance at [https://libretechni.ca](https://libretechni.ca).  Sign-ups are open and and we're ready to start creating communities.
+
 # Background
 
 ## The Reddit APIcalypse

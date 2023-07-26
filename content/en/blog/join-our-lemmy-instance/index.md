@@ -48,7 +48,7 @@ A Lemmy site looks and feels just like Reddit, but without ads or exclusive prem
 
 Two popular lists of Lemmy servers/instances are at [Awesome Lemmy Instances](https://github.com/maltfield/awesome-lemmy-instances) and [the-federation.info Lemmy Instances Page](https://the-federation.info/platform/73).  You can do join one of the larger instances that cater to a breadth of interests or you can an instance that is for attracts a certain interest, like solarpunk ([SLRPNK](https://slrpnk.net)) for example. Keep in mind that regarless whichever instance you choose to be your home instance, you'll still be able to see content from other instances becuase it's federated.  That's the whole point!  Of course, you'll can always find d home at [LibreTechni.ca](https://libretechni.ca).  
 
-## Finding communities
+## Discovering communities
 
 Sub-reddits are called **Communities** in Lemmy.  When you click on "Explore Communities" on a Lemmy instance, you will see three tabs.
 
@@ -56,9 +56,11 @@ Sub-reddits are called **Communities** in Lemmy.  When you click on "Explore Com
 - Local - These communitites are local to the instance you're viewing. Or, if you're using a mobile app, the instance that you're logged onto.
 - All - Here are communities across multiple instances.  However, a community will only show up on this list once a user searches for it for the first time.  For example, searching for "privacy" on the https://libretechni.ca instance only shows a few communities on that topic (as of the date of this post).  But searching for "privacy" on https://lemmy.world shows a wealth of commuhities across numerous instances.  Over time, this list of will grow as subscribers who seek out and subscribe to more communities make their home instance "aware" of them.
 
+As you go about looking for Communities to subscribe to, I recommend checking out some of the larger instances, searching for communities on there, and then subscribing from your home instance.  Start from one of the lista pages of Lemmy instances mentioned in [Choosing a Server](#choosing-a-server).  You can also use site like the [Lemmy Community-Browser](https://browse.feddit.de) to find communities. 
+
 ## Subscribing
 
-As you go about looking for Communities to subscribe to, I recommend checking out some of the larger instances, searching for communities on there, and then subscribing from your home instance.  Start from one of the lista pages of Lemmy instances mentioned in [Choosing a Server](#choosing-a-server).  Here's a little rundown on how to find, say, a Community for cooking.
+Here's a little rundown on how to find, say, a Community for cooking.  
 
 1.  Go to [Awesome Lemmy Instances](https://github.com/maltfield/awesome-lemmy-instances).  The instance [Lemmy.world](https://lemmy.world/) has a lot of users, so go there and click on "Explore Communities".
 2.  Search for "cooking".  Check out some of the Communities and see which one(s) you like.  The subscriber count there indicates how many subscribers the community has _from the local instance_. That's why those numbers don't match when you view the community from its home instance.

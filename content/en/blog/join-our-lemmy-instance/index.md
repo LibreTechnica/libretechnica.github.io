@@ -60,7 +60,7 @@ As you go about looking for Communities to subscribe to, I recommend checking ou
 
 ## Subscribing
 
-Here's a little rundown on how to find, say, a Community for cooking.  
+Here's a little rundown on how to find and subscribe to, say, a Community for cooking.  
 
 1.  Go to [Awesome Lemmy Instances](https://github.com/maltfield/awesome-lemmy-instances).  The instance [Lemmy.world](https://lemmy.world/) has a lot of users, so go there and click on "Explore Communities".
 2.  Search for "cooking".  Check out some of the Communities and see which one(s) you like.  The subscriber count there indicates how many subscribers the community has _from the local instance_. That's why those numbers don't match when you view the community from its home instance.

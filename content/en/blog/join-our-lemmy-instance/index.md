@@ -56,7 +56,9 @@ Sub-reddits are called **Communities** in Lemmy.  When you click on "Explore Com
 - Local - These communitites are local to the instance you're viewing. Or, if you're using a mobile app, the instance that you're logged onto.
 - All - Here are communities across multiple instances.  However, a community will only show up on this list once a user searches for it for the first time.  For example, searching for "privacy" on the https://libretechni.ca instance only shows a few communities on that topic (as of the date of this post).  But searching for "privacy" on https://lemmy.world shows a wealth of commuhities across numerous instances.  Over time, this list of will grow as subscribers who seek out and subscribe to more communities make their home instance "aware" of them.
 
-As you go about looking for Communities to subscribe to, I recommend checking out some of the larger instances, searching for communities on there, and then subscribing from your home instance.  Start from one of the lista pages of Lemmy instances mentioned in [Choosing a Server](#choosing-a-server).  You can also use site like the [Lemmy Community-Browser](https://browse.feddit.de) to find communities. 
+As you go about looking for Communities to subscribe to, I recommend checking out some of the larger instances, searching for communities on there, and then subscribing from your home instance.  Start from one of the lista pages of Lemmy instances mentioned in [Choosing a Server](#choosing-a-server).  You can also use one of these below to find communities.
+- [Lemmy Community-Browser](https://browse.feddit.de)
+- This [post](https://lemmy.world/post/143683) on lemmy.world listing many Reddit equivalents.
 
 ## Subscribing
 

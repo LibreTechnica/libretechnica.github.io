@@ -41,6 +41,7 @@ It's for those reasons that we encourage their adoption over platforms like Twit
 
 - Twitter -> [Mastodon](https://joinmastodon.org/)
 - YouTube -> [PeerTube](https://joinpeertube.org/)
+- Twitch -> [Owncast](https://owncast.online)
 - Instagram -> [PixelFed](https://pixelfed.org/)
 - Spotify -> [Funkwhale](https://funkwhale.audio/)
 - Reddit -> [Lemmy](https://join-lemmy.org), [kbin](https://kbin.pub/)

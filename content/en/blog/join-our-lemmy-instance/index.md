@@ -19,7 +19,7 @@ Lemmy is a free-and-open-source and federated link aggregator like Reddit.  We s
 
 ## The Reddit APIcalypse
 
-In April of 2023, Reddit announced many changes to their API access policies and pricing.  Many of these changes hurt third-party app developers who had to shut down their apps or pay exuberant API fees.  A backlash ensued, moderators protested with blackout, and the Reddit's CEO, , doubled down on their changes.  Here's a good article summarizing it all: [Why everyone is freaking out about the Reddit API and blackout right now](https://www.digitaltrends.com/computing/reddit-api-changes-explained/).
+In April of 2023, Reddit announced many changes to their API access policies and pricing.  Many of these changes hurt third-party app developers who had to shut down their apps or pay exuberant API fees.  A backlash ensued, moderators protested with blackout, and Reddit's CEO, Steve Huffman, doubled down on their changes.  Here's a good article summarizing it all: [Why everyone is freaking out about the Reddit API and blackout right now](https://www.digitaltrends.com/computing/reddit-api-changes-explained/).
 
 ## What is Lemmy
 

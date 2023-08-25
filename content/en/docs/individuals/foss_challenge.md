@@ -45,7 +45,7 @@ At the core of our daily computing experience is the operating system.  You're m
 There are many kinds of Linux to choose from, but don't let that scare you!  If you're complete new to using Linux, you can always try many distros in a virtual machine or on a live USB stick.  Here are some of the most common distros.
 
 - [Ubuntu](https://ubuntu.com/)
-- [LInux Mint](https://linuxmint.com/)
+- [Linux Mint](https://linuxmint.com/)
 - [Manjaro](https://manjaro.org/)
 
 Check out these Resources for more information on making the switch!

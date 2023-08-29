@@ -40,7 +40,7 @@ Check out these Resources for lists upon lists of FOSS alternitives!
 --------------------
 ### Level 2. Install Linux on your desktop or laptop
 
-At the core of our daily computing experience is the operating system.  You're most likely familiar with Microsoft Windows or Apple MacOS, but did you know there is another way?  A way that offers more customization, faster performance, less malware, and absolutely zero user tracking?  Meet Linux, a family of open-source operating systems that you can install for free.  
+At the core of our daily computing experience is the operating system.  You're most likely familiar with Microsoft Windows or Apple macOS, but did you know there is another way?  A way that offers more customization, faster performance, less malware, and absolutely zero user tracking?  Meet Linux, a family of open-source operating systems that you can install for free.  
 
 There are many kinds of Linux to choose from, but don't let that scare you!  If you're complete new to using Linux, you can always try many distros in a virtual machine or on a live USB stick.  Here are some of the most common distros.
 

@@ -40,7 +40,7 @@ Check out these Resources for lists upon lists of FOSS alternitives!
 --------------------
 ### Level 2. Install Linux on your desktop or laptop
 
-At the core of our daily computing experience is the operating system.  You're most likely familiar with Microsoft Windows or Apple MacOS, but did you know there is another way?  A way that offers more customization, faster performance, less malware, and absolutley zero user tracking?  Meet Linux, a family of open-source operating systems that you can install for free.  
+At the core of our daily computing experience is the operating system.  You're most likely familiar with Microsoft Windows or Apple MacOS, but did you know there is another way?  A way that offers more customization, faster performance, less malware, and absolutely zero user tracking?  Meet Linux, a family of open-source operating systems that you can install for free.  
 
 There are many kinds of Linux to choose from, but don't let that scare you!  If you're complete new to using Linux, you can always try many distros in a virtual machine or on a live USB stick.  Here are some of the most common distros.
 
@@ -53,7 +53,7 @@ Check out these Resources for more information on making the switch!
 --------------------
 ### Level 3. Switch federated and decentralized services
 
-Welcome to the Fediverse!  Not to be confused with the overhyped Metaverse, the _Fediverse_ just means "federated services".  These are services where individual instances are indepedently owned and operated, but work with others over shared, standard protocols.  The best example of this is e-mail.  Anyone can run their own e-mail server and exchange messages with other ones across the internet.  Other federated (or _decentralized_) services work the same way.  [Fediverse Party](https://fediverse.party/) lists some good alertnatives to Instagram, YouTube, and Facebook, but perhaps the most well-known is a Twitter-alternative called [Mastodon](https://joinmastodon.org/).  Here are some other decentralized alternives:
+Welcome to the Fediverse!  Not to be confused with the overhyped Metaverse, the _Fediverse_ just means "federated services".  These are services where individual instances are independently owned and operated, but work with others over shared, standard protocols.  The best example of this is e-mail.  Anyone can run their own e-mail server and exchange messages with other ones across the internet.  Other federated (or _decentralized_) services work the same way.  [Fediverse Party](https://fediverse.party/) lists some good alternatives to Instagram, YouTube, and Facebook, but perhaps the most well-known is a Twitter-alternative called [Mastodon](https://joinmastodon.org/).  Here are some other decentralized alternatives:
 
 - YouTube -> [PeerTube](https://joinpeertube.org/)
 - Instagram -> [PixelFed](https://pixelfed.org/)

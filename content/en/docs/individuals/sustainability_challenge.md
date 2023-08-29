@@ -18,7 +18,7 @@ This challenge is for the makers and the environmentally conscious.
 --------------------
 ### Level 1. Reuse or donate old hardware
 
-We can prevent tons of electronic waste from going into landfills by repurposing or down-cycling our old tech.  Older computers that are sluggish with Windows tend to perform like new with Linux installed on them.  Smartphones can become security cameras, desktops can become home servers, you can even make a fish take out of an old tube TV!  This article from [Make Use Of](https://www.makeuseof.com/tag/7-things-you-can-do-with-your-old-electronic-devices/) is a great place to start.
+We can prevent tons of electronic waste from going into landfills by repurposing or down-cycling our old tech.  Older computers that are sluggish with Windows tend to perform like new with Linux installed on them.  Smartphones can become security cameras, desktops can become home servers, you can even make a fish tank out of an old tube TV!  This article from [Make Use Of](https://www.makeuseof.com/tag/7-things-you-can-do-with-your-old-electronic-devices/) is a great place to start.
 
 --------------------
 ### Level 2. Join a community makerspace

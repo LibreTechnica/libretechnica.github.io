@@ -17,7 +17,7 @@ Using free and open-source (FOSS) software is one of the best ways you can liber
 --------------------
 ### Level 1. Switch to FOSS alternatives to common software
 
-The free software has a long history dating back decades.  Today, there are very few things you cannot do with free and open-source software.  
+Free software has a long history dating back decades.  Today, there are very few things you cannot do with free and open-source software.  
 
 Keep in mind that there is a ton of "free" software that is not open-source.  Free but proprietary software like Google Chrome and Discord are not truly free in the 'libre' sense of the word, so you cannot view or change the source code.  LibreTechnica believes you should have complete visibility into your software.  Let's take a look at some alternatives. 
 

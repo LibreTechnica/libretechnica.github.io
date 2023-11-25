@@ -106,6 +106,13 @@
   parent = "about"
 
   [[main]]
+  name = "Donate"
+  weight = 80
+  identifier = "donate"
+  url = "/about/donate/"
+  parent = "about"
+  
+  [[main]]
   name = "Private Search"
   weight = 90
   identifier = "search"

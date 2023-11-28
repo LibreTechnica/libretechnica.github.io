@@ -18,7 +18,7 @@ Donations will primarily go to booking fees for meetups at local libraries (depe
 
 **[Liberapay.com/LibreTechnica](https://liberapay.com/LibreTechnica/)**
 
-Credit/Debit Card Donations to LibreTechnica can be paid using a credit or debit card (Visa, Mastercard, American Express, UnionPay, Discover, Diners, and JCB), or by PayPal (coming soon).
+Credit/Debit Card Donations to LibreTechnica can be paid using a credit or debit card (Visa, Mastercard, American Express, UnionPay, Discover, Diners, and JCB), or by PayPal (coming soon).  If you'd like to make a one-time donation with this method, enter a custom amount, choose "per year", and "Manual renewal".
 
 **Monero**
 ````md

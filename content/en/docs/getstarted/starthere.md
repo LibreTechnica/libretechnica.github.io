@@ -18,21 +18,21 @@ There are numerous ways you can liberate your technology.  But you may not want 
 
 
 ### For Individuals
-As a single, indivisble unit of humanity, you can make small changes over time that will give you back contorl over your digital life.  But it would be quite daunting to change your entire life's technology to socially-conscious alternatives.  That's why we've divided those measures into three challenges that appeal to different concerns that people might relate to most.
+As a single, indivisible unit of humanity, you can make small changes over time that will give you back control over your digital life.  But it would be quite daunting to change your entire life's technology to socially-conscious alternatives.  That's why we've divided those measures into three challenges that appeal to different concerns that people might relate to most.
 
 - The [FOSS Challenge](https://www.libretechnica.org/docs/individuals/foss_challenge/) helps you switch to free and open software that you can trust.
 
-- Take the [Privacy Challenge](https://www.libretechnica.org/docs/individuals/privacy_challenge/) if you want to protect your personal and private information from corporate and government surviellance.
+- Take the [Privacy Challenge](https://www.libretechnica.org/docs/individuals/privacy_challenge/) if you want to protect your personal and private information from corporate and government surveillance.
 
-- The [Sustainability Challenge](https://www.libretechnica.org/docs/individuals/sustainability_challenge/) puts your tech in an environmental prespective and helps eliminate e-waste.
+- The [Sustainability Challenge](https://www.libretechnica.org/docs/individuals/sustainability_challenge/) puts your tech in an environmental perspective and helps eliminate e-waste.
 
 ### For Organizations and Families
 
-Whether your're trying to get your artisan soap-making business off the ground or you want to avoid vendor lock-in for your non-profit, this section helps small to medium groups of people meet their collaboritive tech needs.  There are [resources for organizations and families](https://www.libretechnica.org/docs/organizations/orgresources/) and [tools for business](https://www.libretechnica.org/docs/organizations/business/) as well.
+Whether you're trying to get your artisan soap-making business off the ground or you want to avoid vendor lock-in for your non-profit, this section helps small to medium groups of people meet their collaborative tech needs.  There are [resources for organizations and families](https://www.libretechnica.org/docs/organizations/orgresources/) and [tools for business](https://www.libretechnica.org/docs/organizations/business/) as well.
 
 ### For Communities
 
-Better communities make better societies.  These [community resources](https://www.libretechnica.org/docs/communities/communityresources/) will help make your neighborhods more vibrant and resilient through the power of shared collaboration.  We didn't forget about online communities either, the page on [federated services](https://www.libretechnica.org/docs/communities/fediverse/) will show you decentralized social networks independent of corporate influence.
+Better communities make better societies.  These [community resources](https://www.libretechnica.org/docs/communities/communityresources/) will help make your neighborhoods more vibrant and resilient through the power of shared collaboration.  We didn't forget about online communities either, the page on [federated services](https://www.libretechnica.org/docs/communities/fediverse/) will show you decentralized social networks independent of corporate influence.
 
 --------------------
 ## What we're up against

@@ -23,7 +23,7 @@ We can prevent tons of electronic waste from going into landfills by repurposing
 --------------------
 ### Level 2. Join a community makerspace
 
-Did you ever wish there was a place that had all the wood-working tools, soldering stations, and laser-cutters that you wanted to make a project with?  Well these places exit and they're called _makerspaces_.  These spaces usually charge a monthly membership fee for full access to the facility's offerings.  Most will also offer training on the equipment, classes for creative projects, and special interest groups you can join.  In addition to the large, dedicated facilites like the ones listed at this [Makerspace Directory](*https://makerspaces.make.co/), your local libraries may offer some creative spaces as well.
+Did you ever wish there was a place that had all the wood-working tools, soldering stations, and laser-cutters that you wanted to make a project with?  Well these places exit and they're called _makerspaces_.  These spaces usually charge a monthly membership fee for full access to the facility's offerings.  Most will also offer training on the equipment, classes for creative projects, and special interest groups you can join.  In addition to the large, dedicated facilities like the ones listed at this [Makerspace Directory](*https://makerspaces.make.co/), your local libraries may offer some creative spaces as well.
 
 - [Article: What is a makerspace?](https://www.makerspaces.com/what-is-a-makerspace/)
 

@@ -14,7 +14,7 @@ images: []
 
 Welcome to the Fediverse!  
 
-The Fediverse, which means "federated services", is a collection of services where individual instances are indepedently owned and operated, but work with other instances under standard protocols.  Just like with basic e-mail, anyone can run their own e-mail server and exchange messages with other ones across the internet.  Other federated (or _decentralized_) services work the same way.
+The Fediverse, which means "federated services", is a collection of services where individual instances are independently owned and operated, but work with other instances under standard protocols.  Just like with basic e-mail, anyone can run their own e-mail server and exchange messages with other ones across the internet.  Other federated (or _decentralized_) services work the same way.
 
 It's for those reasons that we encourage their adoption over platforms like Twitter and Facebook.  Here are some more benefits:
 
@@ -52,4 +52,4 @@ It's for those reasons that we encourage their adoption over platforms like Twit
 
 # Join LibreTechnica on Lemmy!
 
-We've started our own Lemmy insance at [LibreTechni.ca](https://libretechni.ca).  Check out the blog post [here](https://www.libretechnica.org/blog/join-our-lemmy-instance/) for how to get started.
+We've started our own Lemmy instance at [LibreTechni.ca](https://libretechni.ca).  Check out the blog post [here](https://www.libretechnica.org/blog/join-our-lemmy-instance/) for how to get started.

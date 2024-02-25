@@ -25,5 +25,5 @@ images: []
 
 ## Business Resources
 
-[Start.coop](https://www.start.coop) - A resource for startomg cooperative-based businesses.
+[Start.coop](https://www.start.coop) - A resource for starting cooperative-based businesses.
 

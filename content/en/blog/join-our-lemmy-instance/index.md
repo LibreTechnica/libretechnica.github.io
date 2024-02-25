@@ -53,7 +53,7 @@ Two popular lists of Lemmy servers/instances are at [Awesome Lemmy Instances](ht
 Sub-reddits are called **Communities** in Lemmy.  When you click on "Explore Communities" on a Lemmy instance, you will see three tabs.
 
 - Subscribed - These are the communities you have subscribed to, obviously.
-- Local - These communitites are local to the instance you're viewing. Or, if you're using a mobile app, the instance that you're logged onto.
+- Local - These communities are local to the instance you're viewing. Or, if you're using a mobile app, the instance that you're logged onto.
 - All - Here are communities across multiple instances.  However, a community will only show up on this list once a user searches for it for the first time.  For example, searching for "privacy" on the https://libretechni.ca instance only shows a few communities on that topic (as of the date of this post).  But searching for "privacy" on https://lemmy.world shows a wealth of commuhities across numerous instances.  Over time, this list of will grow as subscribers who seek out and subscribe to more communities make their home instance "aware" of them.
 
 As you go about looking for Communities to subscribe to, I recommend checking out some of the larger instances, searching for communities on there, and then subscribing from your home instance.  Start from one of the lista pages of Lemmy instances mentioned in [Choosing a Server](#choosing-a-server).  You can also use one of these below to find communities.

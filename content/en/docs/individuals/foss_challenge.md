@@ -29,11 +29,11 @@ Don't forget to try FOSS on your smartphone, too!  Many good alternative FOSS ap
 
 #### Online Services and Apps
 
-Many commonly used online services have open-source cores.  For example, [Bitwarden](https://bitwarden.com/) is a popular password manager whose apps are openly developed, from the server to the mobile apps.  This open nature is preferable when you're involving sensitive information like your passwords.  If you can't look inside thier app, it's not even possible for you to verify they're not mishandling your data.
+Many commonly used online services have open-source cores.  For example, [Bitwarden](https://bitwarden.com/) is a popular password manager whose apps are openly developed, from the server to the mobile apps.  This open nature is preferable when you're involving sensitive information like your passwords.  If you can't look inside their app, it's not even possible for you to verify they're not mishandling your data.
 
-Another consideration is using services with open datasets.  Google Maps owns all the map data used in their popular navigation appss, but [OpenStreetMap](https://www.openstreetmap.org/#map=18/33.02595/-96.88048) project democratizes that data and is openly accessible to anyone. 
+Another consideration is using services with open data sets.  Google Maps owns all the map data used in their popular navigation apps, but [OpenStreetMap](https://www.openstreetmap.org/#map=18/33.02595/-96.88048) project democratizes that data and is openly accessible to anyone. 
 
-Check out these Resources for lists upon lists of FOSS alternitives!
+Check out these Resources for lists upon lists of FOSS alternatives!
 
 *Privacy Bonus* - use privacy tools like [Signal](https://signal.org/).
 

@@ -46,13 +46,13 @@ A Lemmy site looks and feels just like Reddit, but without ads or exclusive prem
 
 ## Choosing a Server
 
-Two popular lists of Lemmy servers/instances are at [Awesome Lemmy Instances](https://github.com/maltfield/awesome-lemmy-instances) and [the-federation.info Lemmy Instances Page](https://the-federation.info/platform/73).  You can do join one of the larger instances that cater to a breadth of interests or you can an instance that is for attracts a certain interest, like solarpunk ([SLRPNK](https://slrpnk.net)) for example. Keep in mind that regarless whichever instance you choose to be your home instance, you'll still be able to see content from other instances becuase it's federated.  That's the whole point!  Of course, you'll can always find d home at [LibreTechni.ca](https://libretechni.ca).  
+Two popular lists of Lemmy servers/instances are at [Awesome Lemmy Instances](https://github.com/maltfield/awesome-lemmy-instances) and [the-federation.info Lemmy Instances Page](https://the-federation.info/platform/73).  You can do join one of the larger instances that cater to a breadth of interests or you can an instance that is for attracts a certain interest, like solarpunk ([SLRPNK](https://slrpnk.net)) for example. Keep in mind that regardless whichever instance you choose to be your home instance, you'll still be able to see content from other instances because it's federated.  That's the whole point!  Of course, you'll can always find d home at [LibreTechni.ca](https://libretechni.ca).  
 
 ## Discovering communities
 
 Sub-reddits are called **Communities** in Lemmy.  When you click on "Explore Communities" on a Lemmy instance, you will see three tabs.
 
-- Subscribed - These are the communities you have susbscribed to, obviously.
+- Subscribed - These are the communities you have subscribed to, obviously.
 - Local - These communitites are local to the instance you're viewing. Or, if you're using a mobile app, the instance that you're logged onto.
 - All - Here are communities across multiple instances.  However, a community will only show up on this list once a user searches for it for the first time.  For example, searching for "privacy" on the https://libretechni.ca instance only shows a few communities on that topic (as of the date of this post).  But searching for "privacy" on https://lemmy.world shows a wealth of commuhities across numerous instances.  Over time, this list of will grow as subscribers who seek out and subscribe to more communities make their home instance "aware" of them.
 

@@ -13,7 +13,7 @@ contributors: ["LibreTechnica"]
 
 # TLDR
 
-Lemmy is a free-and-open-source and federated link aggregator like Reddit.  We set up a Lemmy instance at [https://libretechni.ca](https://libretechni.ca).  Sign-ups are open and and we're ready to start creating communities.
+Lemmy is a free-and-open-source and federated link aggregator like Reddit.  We set up a Lemmy instance at [https://libretechni.ca](https://libretechni.ca).  Sign-ups are open and we're ready to start creating communities.
 
 # Background
 
@@ -29,7 +29,7 @@ The [History of Lemmy](https://join-lemmy.org/docs/users/07-history-of-lemmy.htm
 
 ## How does it compare to Reddit?
 
-A Lemmy site looks and feels just like Reddit, but without ads or exclusive premium accounts.  Link aggregation and conversation trees a the main focus and there's not much more to that.  Everything should feel intuitive if you're coming from Reddit.  The project is still relatively new, but it does its basic functions pretty well.  Here are a few more selected features ripped from [project website](https://join-lemmy.org):
+A Lemmy site looks and feels just like Reddit, but without ads or exclusive premium accounts.  Link aggregation and conversation trees are the main focus and there's not much more to that.  Everything should feel intuitive if you're coming from Reddit.  The project is still relatively new, but it does its basic functions pretty well.  Here are a few more selected features ripped from [project website](https://join-lemmy.org):
 
 - Self hostable, easy to deploy, via Docker, or Ansible.
 - Clean, mobile-friendly interface.
@@ -46,7 +46,7 @@ A Lemmy site looks and feels just like Reddit, but without ads or exclusive prem
 
 ## Choosing a Server
 
-Two popular lists of Lemmy servers/instances are at [Awesome Lemmy Instances](https://github.com/maltfield/awesome-lemmy-instances) and [the-federation.info Lemmy Instances Page](https://the-federation.info/platform/73).  You can do join one of the larger instances that cater to a breadth of interests or you can an instance that is for attracts a certain interest, like solarpunk ([SLRPNK](https://slrpnk.net)) for example. Keep in mind that regardless whichever instance you choose to be your home instance, you'll still be able to see content from other instances because it's federated.  That's the whole point!  Of course, you'll can always find d home at [LibreTechni.ca](https://libretechni.ca).  
+Two popular lists of Lemmy servers/instances are at [Awesome Lemmy Instances](https://github.com/maltfield/awesome-lemmy-instances) and [the-federation.info Lemmy Instances Page](https://the-federation.info/platform/73).  You can join one of the larger instances that cater to a breadth of interests or you can join an instance that is for attracting a certain interest, like solarpunk ([SLRPNK](https://slrpnk.net)) for example. Keep in mind that, regardless of the instance you choose to be your home instance, you'll still be able to see content from other instances because it's federated.  That's the whole point!  Of course, you'll can always find Lemmy's home at [LibreTechni.ca](https://libretechni.ca).  
 
 ## Discovering communities
 
@@ -54,7 +54,7 @@ Sub-reddits are called **Communities** in Lemmy.  When you click on "Explore Com
 
 - Subscribed - These are the communities you have subscribed to, obviously.
 - Local - These communities are local to the instance you're viewing. Or, if you're using a mobile app, the instance that you're logged onto.
-- All - Here are communities across multiple instances.  However, a community will only show up on this list once a user searches for it for the first time.  For example, searching for "privacy" on the https://libretechni.ca instance only shows a few communities on that topic (as of the date of this post).  But searching for "privacy" on https://lemmy.world shows a wealth of commuhities across numerous instances.  Over time, this list of will grow as subscribers who seek out and subscribe to more communities make their home instance "aware" of them.
+- All - Here are communities across multiple instances.  However, a community will only show up on this list once a user searches for it for the first time.  For example, searching for "privacy" on the https://libretechni.ca instance only shows a few communities on that topic (as of the date of this post).  But searching for "privacy" on https://lemmy.world shows a wealth of communities across numerous instances.  Over time, this list of will grow as subscribers who seek out and subscribe to more communities make their home instance "aware" of them.
 
 As you go about looking for Communities to subscribe to, I recommend checking out some of the larger instances, searching for communities on there, and then subscribing from your home instance.  Start from one of the lista pages of Lemmy instances mentioned in [Choosing a Server](#choosing-a-server).  You can also use one of these below to find communities.
 - [Lemmy Community-Browser](https://browse.feddit.de)
